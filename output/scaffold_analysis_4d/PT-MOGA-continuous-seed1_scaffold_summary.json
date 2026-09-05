@@ -1,0 +1,21 @@
+{
+  "label": "PT-MOGA-continuous-seed1",
+  "perfect_input_entries": 3766,
+  "perfect_invalid_entries": 0,
+  "perfect_canonical_unique": 3492,
+  "sample_size": 1000,
+  "sample_seed": 2026,
+  "sampled_unique_murcko_scaffolds": 610,
+  "reference_valid_unique_molecules": 287,
+  "reference_invalid_entries": 0,
+  "reference_unique_murcko_scaffolds": 205,
+  "morgan_radius": 3,
+  "fingerprint_bits": 2048,
+  "count_similarity_le_0.1": 0,
+  "count_similarity_le_0.2": 0,
+  "count_similarity_le_0.3": 14,
+  "count_similarity_le_0.4": 177,
+  "mean_max_similarity": 0.4945500505377107,
+  "median_max_similarity": 0.4642857142857143,
+  "std_max_similarity": 0.15276102027015379
+}

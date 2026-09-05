@@ -1,0 +1,2 @@
+label,perfect_input_entries,perfect_invalid_entries,perfect_canonical_unique,sample_size,sample_seed,sampled_unique_murcko_scaffolds,reference_valid_unique_molecules,reference_invalid_entries,reference_unique_murcko_scaffolds,morgan_radius,fingerprint_bits,count_similarity_le_0.1,count_similarity_le_0.2,count_similarity_le_0.3,count_similarity_le_0.4,mean_max_similarity,median_max_similarity,std_max_similarity
+PT-MOGA-discrete-seed2,4366,0,4203,1000,2026,914,287,0,205,3,2048,0,0,87,485,0.4083544220351294,0.39052425007008695,0.106585275923052

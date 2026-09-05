@@ -6,7 +6,7 @@ PT-MOGA combines reaction-aware molecular generation with Pareto-based selection
 
 ## Code location
 
-The source directory is `liuyansong/ChemistGA-master/ChemistGA-master/`. Paths below are relative to that directory.
+The source directory is the repository root. All paths below are relative to that directory.
 
 | Directory | Contents |
 |---|---|
@@ -15,12 +15,12 @@ The source directory is `liuyansong/ChemistGA-master/ChemistGA-master/`. Paths b
 | `ChemistGA/retro/` | Retro* evaluation |
 | `ChemistGA/evaluate/` | Novelty, diversity, scaffold counts, and result summaries |
 | `ChemistGA/hv_comparison_3d/` | Hypervolume experiments and plotting |
-| `data/`, `scoring/`, `transformer_model/` | Input data, scoring components, and reaction model |
+| `data/`, `scoring/` | Input data and scoring components |
 | `output/` | Experiment data and evaluation outputs |
 
 ## Running the experiments
 
-The scripts were written for Linux and use Python, NumPy, pandas, RDKit, PyTorch, pymoo, and the bundled Transformer implementation. Retro* evaluation additionally requires Retro* and its model, reaction-template, and starting-molecule files; Retro* is not bundled in this directory. Refer to the upstream model documentation for setup. A complete pinned environment has not yet been supplied.
+The scripts were written for Linux and use Python, NumPy, pandas, RDKit, PyTorch, pymoo, and a compatible Transformer implementation. The `transformer_model/` implementation directory and pretrained Transformer weights are not included in this upload. The generation scripts require `transformer_model.onmt.opts_translate.OPT_TRANSLATE` and the corresponding translation modules; these must be supplied and configured before generation can run. Retro* evaluation additionally requires Retro* and its model, reaction-template, and starting-molecule files; Retro* is not bundled in this directory. Refer to the upstream model documentation for setup. A complete pinned environment has not yet been supplied.
 
 ### Molecular Transformer setup
 
@@ -30,11 +30,7 @@ Configure Molecular Transformer according to the [official repository](https://g
 transformer_model/experiments/checkpoints/all/MIT_mixed_augm_model_average_20.pt
 ```
 
-The complete path in the current project layout is:
-
-```text
-liuyansong/ChemistGA-master/ChemistGA-master/transformer_model/experiments/checkpoints/all/MIT_mixed_augm_model_average_20.pt
-```
+The model path above is relative to the repository root. Downloading the weights alone does not supply the required Transformer implementation.
 
 1. Update `base_path` / `BASE_PATH`, model paths, and input/output paths for your installation. Several scripts retain absolute paths from the original server.
 2. Select the task, run identifier, and experiment switches in the relevant scripts.

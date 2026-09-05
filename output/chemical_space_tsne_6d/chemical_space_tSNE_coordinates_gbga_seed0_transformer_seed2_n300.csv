@@ -1,0 +1,888 @@
+model,smiles,tSNE-1,tSNE-2
+Initial molecules,c1cc2ccc3ncc(-c4ccc(-c5ccn[nH]5)cc4)cc3c2cn1,3.4677954,8.0714655
+Initial molecules,c1ccc2cc(-c3n[nH]cc3-c3ccncc3)ccc2c1,-15.718228,2.3444147
+Initial molecules,c1ccc(-c2cnc(Nc3ccc(OCCN4CCCC4)cc3)s2)cc1,-3.2370908,-22.743822
+Initial molecules,c1ccc(-c2c[nH]c3ncnc(N4CCCCC4)c23)cc1,-22.50127,4.1675844
+Initial molecules,c1ccc(-c2[nH]ncc2-c2ccnc3ccccc23)nc1,2.998307,12.816224
+Initial molecules,c1ccc(-c2noc(CN3CCCCC3)c2-c2ccnc(NC3CCCCC3)n2)cc1,-18.661268,26.554348
+Initial molecules,c1ccc(Nc2nccc(-c3cnn4ncccc34)n2)cc1,6.135419,-27.252974
+Initial molecules,c1cc(-n2cnc(N3CCOCC3)n2)ccc1Nc1ncc2ccc(-c3cn[nH]c3)cc2n1,38.18011,-32.601337
+Initial molecules,c1cc(-n2cnc(N3CCOCC3)n2)ccc1Nc1ncc2ccc(-c3cnoc3)cc2n1,37.627907,-32.83797
+Initial molecules,c1cnc2[nH]cc(-c3ccnc(NC4CCCCC4)n3)c2c1,6.987723,22.576872
+Initial molecules,Cc1ccc2c(-c3ccnc(Nc4ccc5c(c4)OCCO5)n3)c(-c3ccc(F)cc3)nn2n1,10.933499,-36.583546
+Initial molecules,Cc1ccc2c(-c3ccnc(Nc4ccc(Cl)c(C(F)(F)F)c4)n3)c(-c3ccccc3)nn2n1,8.399156,-39.8245
+Initial molecules,Cc1cccc(Nc2nc(NC3CCCCC3N)cnc2C(N)=O)c1,-18.102137,-22.622293
+Initial molecules,Cc1cccc(NC(=O)Nc2ccc(-c3csc4c(C#CCCCCCCCCN)cnc(N)c34)cc2)c1,1.182611,1.0398915
+Initial molecules,Cc1ccc(Nc2nccc(N(C)c3ccc4c(C)n(C)nc4c3)n2)cc1S(N)(=O)=O,34.452335,0.791865
+Initial molecules,Cc1cnc(Nc2ccc(OCCN3CCCC3)cc2)nc1Nc1cccc(S(=O)(=O)NC(C)(C)C)c1,-3.3074915,-22.79089
+Initial molecules,Cc1ncn(-c2ccc(Nc3cc(-c4nocc4-c4c(C)n[nH]c4C)ccn3)cc2)n1,45.455956,-23.810345
+Initial molecules,Cc1ncn(-c2ccc(Nc3cc(-c4nocc4-c4c[nH]nc4C)ccn3)cc2)n1,45.362846,-23.642412
+Initial molecules,Cc1ncn(-c2ccc(Nc3cc(-c4nocc4-c4cn[nH]c4C)ccn3)cc2)n1,45.421513,-24.000708
+Initial molecules,CCC1C(=O)N(C)c2cnc(Nc3ccc(C(=O)NC4CCCCC4)cc3OC)nc2N1C1CCCC1,-26.3982,14.334096
+Initial molecules,CCC1C(=O)N(C)c2cnc(Nc3ccc(C(=O)NC4CCN(C)CC4)cc3OC)nc2N1C1CCCC1,-26.396965,14.338886
+Initial molecules,CC(C)C(CO)Nc1nc(Nc2cccc(Cl)c2)c2ncn(C(C)C)c2n1,-8.587148,-37.31233
+Initial molecules,CCC(CO)Nc1nc(N=C(N)N)c2ncn(C(C)C)c2n1,-8.896895,-38.216904
+Initial molecules,CCCn1c(C2CCNCC2)nc(-c2ccc(Cl)c(Cl)c2)c1-c1ccnc(NC2CCCCC2)n1,7.0572696,41.123642
+Initial molecules,CCN1CCN(c2ccc(Nc3nccc(-c4c(-c5cccc(C(=O)Nc6ccccc6F)c5)nc5ccccn45)n3)cc2)CC1,-1.2733339,-18.042356
+Initial molecules,CCN1CCN(Cc2ccc(NC(=O)Nc3ccc(Oc4cc(NC)ncn4)cc3)cc2C(F)(F)F)CC1,-8.428495,-18.177189
+Initial molecules,CCN(CC)CCCCN1c2ccccc2Oc2ccc(Cl)cc21,-40.202568,-14.209499
+Initial molecules,CCN(CC)CCNC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c1C,-40.47105,-10.337389
+Initial molecules,CCN(CCCOc1ccc2c(Nc3cc(CC(=O)Nc4cccc(F)c4)[nH]n3)ncnc2c1)CCOP(=O)(O)O,-11.084856,-12.06192
+Initial molecules,CCN(CC)S(=O)(=O)c1cc(Nc2nccc(-c3ccnc(-c4ccc(NC(=O)NC)cc4)c3)n2)ccc1Cl,16.377222,2.6397524
+Initial molecules,CCOc1nc(C(=O)NCc2ccc(S(C)(=O)=O)cc2)cc(N)c1C#N,-28.508154,-24.921896
+Initial molecules,CCOc1nc(C(=O)NCc2ccc(S(N)(=O)=O)cc2)cc(N)c1C#N,-28.23285,-24.697882
+Initial molecules,CCOc1nc(NC(=O)Cc2cc(OC)ccc2OC)cc(N)c1C#N,-25.966154,-26.504372
+Initial molecules,Clc1ccc(-c2nn3ncccc3c2-c2ccnc(Nc3ccccc3)n2)cc1,6.079757,-34.42883
+Initial molecules,Clc1cc(NC2CCCCC2)nc(-c2c[nH]c3ncccc23)n1,-20.260328,34.862534
+Initial molecules,Cn1cc(-c2cnc(N)c3c(-c4ccc(NC(=O)Nc5cccc(F)c5)cc4)csc23)cn1,0.43005288,1.8252866
+Initial molecules,CN1CCC(n2cnc(-c3ccc(F)cc3)c2-c2ccnc(Nc3ccccc3)n2)CC1,9.146492,-0.47401226
+Initial molecules,CN1CCOCCN(C)CCn2cc(c3ccccc32)C2=C(C(=O)NC2=O)c2cn(c3ccccc23)CC1,-30.976942,-1.2678591
+Initial molecules,CN1N=C(N)c2cn(C3OC(CO)C(O)C3O)c3ncnc1c23,-22.71591,5.04689
+Initial molecules,CN(c1ncccc1CNc1nc(Nc2ccc3[nH]c(O)cc3c2)ncc1C(F)(F)F)S(C)(=O)=O,-7.025369,-22.816668
+Initial molecules,CN(C)c1ccc(-c2nc3sccn3c2-c2ccnc(Nc3cccc(N4CCOCC4)c3)n2)cc1NC(=O)c1ccccc1,-0.45372465,-17.64249
+Initial molecules,CN(C)CC(=O)N1CCC(c2ccc(NC(=O)c3ncc(C#N)[nH]3)c(C3=CCCCC3)c2)CC1,-31.537176,11.824752
+Initial molecules,CN(C)CC(=O)N1CCC(c2ccc(NC(=O)c3nc(C#N)c[nH]3)c(C3=CCCCC3)c2)CC1,-31.536514,11.809903
+Initial molecules,CNC(=O)c1ccccc1Sc1ccc2c(C=Cc3ccccn3)n[nH]c2c1,-21.779495,-18.66196
+Initial molecules,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1,-8.403499,-18.172646
+Initial molecules,CNC(=O)c1c(F)cccc1Nc1nc(Nc2cc3c(cc2OC)CCN3C(=O)CN(C)C)nc2[nH]ccc12,-18.869627,-27.045702
+Initial molecules,COc1cc2c(N3CCN(C(=O)Nc4ccc(OC(C)C)cc4)CC3)ncnc2cc1OCCCN1CCCCC1,-18.166006,-15.913878
+Initial molecules,COc1cc2nccc(Oc3ccc(NC(=S)NC(=O)c4ccccc4C)cc3)c2cc1OC,-17.16462,-17.603676
+Initial molecules,COc1cc2ncnc(N3CCN(C(=O)Nc4ccc(Oc5ccccc5)cc4)CC3)c2cc1OC,-17.724804,-15.811524
+Initial molecules,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1,-14.028138,-17.817913
+Initial molecules,COc1cc2ncnc(Nc3ccc(Oc4ccccc4)cc3)c2cc1OC,-15.759382,-13.402824
+Initial molecules,COc1cc(C=C2C(=O)NN(c3ccc(Cl)c(Cl)c3)C2=O)ccc1O,-33.17757,-15.7256775
+Initial molecules,COc1cc(C)c(N2CCN(C(C)C)CC2)cc1Nc1nc(Nc2cccc(F)c2C(N)=O)c2cc[nH]c2n1,-17.999235,-27.260828
+Initial molecules,COc1ccc(Nc2ncc3nc(Nc4ccccc4F)n(C4CCCC4)c3n2)cc1,-15.601147,-33.487682
+Initial molecules,COc1ccc(Nc2ncc3nc(Nc4ccccc4F)n(C(C)C)c3n2)cc1,-13.768016,-33.750237
+Initial molecules,COc1ccc(Nc2ncc3nc(Nc4ccc(F)cc4F)n(C4CCCC4)c3n2)cc1,-16.486893,-33.515026
+Initial molecules,COc1ccc(Nc2ncc3nc(Nc4c(F)cccc4F)n(C4CCCC4)c3n2)cc1,-15.895338,-34.239662
+Initial molecules,COc1ccc(N=Nc2c(O)n[nH]c2-c2cnccc2OC)cc1,-34.539192,-21.460335
+Initial molecules,COc1ccc(OC)c2c(S)c3ccccc3nc12,-20.436497,-10.48343
+Initial molecules,COc1cc(N2CCC(N3CCN(C)CC3)CC2)ccc1Nc1ncc(Cl)c(Nc2ccccc2S(=O)(=O)C(C)C)n1,-14.03534,-25.388857
+Initial molecules,COc1cc(Nc2ncc(Cl)c(Nc3ccccc3C(N)=O)n2)ccc1N1CCOCC1,-11.682434,-25.728104
+Initial molecules,COc1cc(Nc2ncc(F)c(Nc3ccc4c(n3)NC(=O)C(C)(C)O4)n2)cc(OC)c1OC,-13.656429,-28.003244
+Initial molecules,COc1ccncc1-c1[nH]nc(O)c1N=Nc1ccccc1,-35.536053,-21.334808
+Initial molecules,COc1ccncc1-c1[nH]nc(O)c1N=Nc1ccc(Cl)cc1,-34.781387,-20.897932
+Initial molecules,COc1ccncc1-c1[nH]nc(O)c1N=Nc1ccc(C#N)cc1,-34.861855,-22.135464
+Initial molecules,COc1ccncc1-c1[nH]nc(O)c1N=Nc1ccncc1,-35.20532,-21.422787
+Initial molecules,COC(=O)c1ccc2c(c1)NC(=O)C2C(=Nc1ccc(N(C)C(=O)CN2CCN(C)CC2)cc1)c1ccccc1,-15.475296,20.548094
+Initial molecules,CSc1nc(-c2ccc(F)cc2)c(-c2ccnc(NC(C)CCCC(C)C)c2)[nH]1,-5.882821,7.1455326
+Initial molecules,CS(=O)c1ccc(-c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)cc1,-11.955384,5.536845
+Initial molecules,CS(=O)(=O)Nc1ccc(-c2ccnc(Nc3ccc(S(N)(=O)=O)cc3)n2)cc1,22.02064,-10.244099
+Initial molecules,CS(=O)(=O)Nc1ccc(-c2cnc3cccc(-c4ccncc4)c3c2)cc1,3.601816,7.678384
+Initial molecules,Fc1cc(-c2ccnc(Nc3ccc(-n4cnc(N5CCOCC5)n4)cc3)n2)cc(N2CCOCC2)c1,1.3979614,-13.479509
+Initial molecules,Fc1ccc(Nc2nccc(-c3c(-c4ccccc4)nn4ncccc34)n2)cc1F,6.437035,-36.10529
+Initial molecules,FC(F)(F)c1cc(Nc2nccc(-c3c(-c4ccccc4)nn4ncccc34)n2)ccc1Cl,6.6403413,-38.448822
+Initial molecules,N#Cc1ccc2c(-c3ccnc(NC4CC4)n3)c(-c3ccc(F)cc3)nn2c1,-1.7800462,22.979418
+Initial molecules,N#CC(c1ccnc(NCCc2cccnc2)n1)c1nc2ccccc2s1,22.288378,6.2610826
+Initial molecules,NC(=O)c1ccc(-c2nc(-c3ccc4c(c3)OCO4)c(-c3ccccn3)[nH]2)cc1,-25.214577,-14.291956
+Initial molecules,NC(=O)c1ccc(-c2nc(-c3ccccn3)c(-c3ccc4c(c3)OCCO4)[nH]2)cc1,-25.410162,-14.463882
+Initial molecules,NC(=O)c1ccccc1Nc1nc(Nc2ccc(N3CCCC3=O)cc2)ncc1Cl,-9.631338,-26.01643
+Initial molecules,NC(=O)c1ccc(NC2CCCCC2N)nc1Nc1cccc(Cl)c1,-17.410835,-22.366821
+Initial molecules,NC(=O)c1ccc(Nc2nccc(-c3ccccc3)n2)cc1,13.653574,2.0007029
+Initial molecules,O=c1c2ccccc2[nH]c(=S)n1CCN1CCC(=C(c2ccc(F)cc2)c2ccc(F)cc2)CC1,-35.800167,-3.6629984
+Initial molecules,O=c1c(-c2ccc(F)cc2)c(-c2ccnc(NC3CCCCC3)c2)oc2ccccc12,0.6242014,24.281517
+Initial molecules,Oc1ccc(-c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)cc1,-11.287001,6.362388
+Initial molecules,O=C1C=CC(c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)=CC1,-13.852009,8.415515
+Initial molecules,OC1CCC(c2[nH]ncc2-c2ccnc(NC3CCCC3)n2)CC1,-2.315996,45.35999
+Initial molecules,OC1CCC(Nc2ncc3nc(Nc4ccccc4F)n(C4CCCC4)c3n2)CC1,-22.928284,19.844969
+Initial molecules,OC1CCC(Nc2nccc(-c3cn[nH]c3C3CCCOC3)n2)CC1,-2.30504,45.371696
+Initial molecules,Oc1nc2ncc(-c3ccc(-c4ncn[nH]4)cc3)nc2n1CCC1CCOCC1,-0.22880733,41.60259
+Initial molecules,O=C1NC(=O)c2c1c1c3ccccc3[nH]c1c1[nH]c3cc(Br)ccc3c21,-35.21404,-4.3722353
+Initial molecules,O=C1NC(=O)C2=C1c1cn(c3ccccc13)CCCc1ccc(c(N3CCCC3)n1)CCCn1cc2c2ccccc21,-30.868807,3.153471
+Initial molecules,O=C1NC(=O)C2=C1c1cn(c3ccccc13)CCCc1cc(nc(N3CCCC3)c1)CCCn1cc2c2ccccc21,-30.593206,1.8075743
+Initial molecules,O=C1NC(=O)C2=C1c1cn(c3ccccc13)CCCCc1ccc(c(N3CCCC3)n1)CCCCn1cc2c2ccccc21,-30.827787,3.2178516
+Initial molecules,O=C1NC(=O)C(=Cc2ccc(-c3ccc(F)cc3O)o2)S1,-40.557285,-3.308128
+Initial molecules,O=C(Cc1ccccc1)Nc1cccc(-c2nc3sccn3c2-c2ccnc(Nc3ccc(N4CCOCC4)cc3)n2)c1,-0.44080234,-17.639753
+Initial molecules,Sc1nnc(-c2ccncc2)n1-c1ccc2ccccc2c1,-15.285086,2.1650016
+Initial molecules,c1ccc2c(-c3ccncc3)c[nH]c2c1,-17.496202,2.7041852
+Initial molecules,c1cc(-c2nccs2)c2nc(Nc3ccc(-n4cnc(N5CCOCC5)n4)cc3)ncc2c1,35.237713,-30.581404
+Initial molecules,c1ccc(-c2ccc3c(-c4ccnc(Nc5ccc6c(c5)OCCO6)n4)cnn3n2)cc1,11.556318,-34.240776
+Initial molecules,c1ccc(-c2ccnc(Nc3ccc(-n4cncn4)cc3)n2)cc1,33.448273,-15.649863
+Initial molecules,c1ccc(-c2nn3ncccc3c2-c2ccnc(Nc3ccc4c(c3)OCCO4)n2)cc1,10.279318,-34.75324
+Initial molecules,c1ccc(Nc2nccc(-c3c(-c4ccccc4)nn4ncccc34)n2)cc1,6.8329415,-34.390507
+Initial molecules,c1cnn2ncc(-c3ccnc(NC4CC4)n3)c2c1,-14.401261,52.01476
+Initial molecules,Cc1cc2ncc(-c3ccccc3)nc2cc1C,20.925854,14.093338
+Initial molecules,Cc1ccc2c(-c3ccnc(Nc4ccc5c(c4)OCCO5)n3)c(-c3ccccc3)nn2n1,11.221464,-36.821636
+Initial molecules,Cc1ccc2c(-c3ccnc(Nc4ccc5c(c4)OCCO5)n3)c(-c3cccc(C(F)(F)F)c3)nn2n1,10.224048,-37.4013
+Initial molecules,Cc1ccc2c(-c3ccnc(Nc4ccccc4)n3)c(-c3ccccc3)nn2n1,10.804304,-38.928104
+Initial molecules,Cc1ccc2c(-c3ccnc(Nc4ccccc4)n3)c(-c3cccc(C(F)(F)F)c3)nn2n1,10.043873,-38.891262
+Initial molecules,Cc1ccc2c(-c3ccnc(Nc4ccc(Cl)c(C(F)(F)F)c4)n3)c(-c3cccc(C(F)(F)F)c3)nn2n1,9.062846,-39.717937
+Initial molecules,Cc1ccc2c(-c3ccnc(Nc4ccc(Cl)c(C(F)(F)F)c4)n3)c(-c3ccc(F)cc3)nn2n1,7.8967004,-39.61377
+Initial molecules,Cc1ccc2c(-c3ccnc(Nc4ccc(F)c(F)c4)n3)c(-c3ccc(F)cc3)nn2n1,8.593299,-38.138233
+Initial molecules,Cc1ccc2nccc(NC(=O)Nc3cccc(C(F)(F)F)n3)c2c1,-7.458942,-14.534214
+Initial molecules,Cc1ccc(-c2ccnc(Nc3ccc(S(N)(=O)=O)cc3)n2)s1,33.43423,-0.1520822
+Initial molecules,Cc1ccc(-c2ncn(-c3ccc(Nc4ncc5ccc(-c6cn[nH]c6)cc5n4)cc3)n2)cn1,39.081635,-32.495796
+Initial molecules,Cc1cccc(-c2[nH]c(C(C)(C)C)nc2-c2ccc3c(c2)OCO3)n1,-24.632149,-13.494814
+Initial molecules,Cc1cc(C)c(C=C2C(=O)Nc3ccccc32)[nH]1,-36.45038,-6.9433846
+Initial molecules,Cc1ccc(F)c(NC(=O)Nc2ccc(-c3cccc4[nH]nc(N)c34)cc2)c1,2.1129916,1.7305624
+Initial molecules,Cc1ccc(-n2nc(C(C)(C)C)cc2NC(=O)Nc2ccc(OCCN3CCOCC3)c3ccccc23)cc1,-13.459917,-20.293009
+Initial molecules,Cc1ccc(N=C2CC(=O)c3sc(C)nc3C2=O)cc1,-21.321785,9.347119
+Initial molecules,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1,16.394224,8.522372
+Initial molecules,Cc1cc(Nc2cc(N3CCN(C)CC3)nc(Sc3ccc(NC(=O)C4CC4)cc3)n2)n[nH]1,-5.7833614,17.706768
+Initial molecules,Cc1cc(NC(=O)c2cccc(NC(=O)C=CCN(C)C)c2)ccc1Nc1nccc(-c2cccnc2)n1,16.988125,8.249593
+Initial molecules,CC1CCN(C(=O)CC#N)CC1N(C)c1ncnc2[nH]ccc12,-31.668316,13.125466
+Initial molecules,Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cccnc5)n4)c3)cc(C(F)(F)F)c2)cn1,16.067638,8.68726
+Initial molecules,Cc1nc2cc3nc(-c4cccs4)cnc3cc2n1C,21.143719,15.0633545
+Initial molecules,Cc1ncn(-c2ccc(Nc3ncc4cccc(-c5nccs5)c4n3)cc2)n1,35.07503,-30.149752
+Initial molecules,Cc1ncn(-c2ccc(Nc3nccc(-c4cc(C#N)cc(N5CCOCC5)c4)n3)cc2)n1,3.5676687,-16.177835
+Initial molecules,Cc1ncn(-c2ccc(Nc3ncc(Cl)c(-c4ccn(C)n4)n3)cc2)n1,36.93247,-23.501247
+Initial molecules,Cc1[nH]c(C=C2C(=O)Nc3ccccc32)c(C)c1CCC(=O)O,-35.972,-8.342735
+Initial molecules,Cc1[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c(C)c1C(=O)NCC(O)CN1CCOCC1,-40.8216,-6.874094
+Initial molecules,CCc1ccc2nccc(NC(=O)Nc3cccc(C(F)(F)F)n3)c2c1,-7.6394053,-14.82416
+Initial molecules,C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1,-14.202294,-14.430429
+Initial molecules,CCc1nc(-c2ccc(OC)cc2)[nH]c1-c1ccncc1,-11.052284,4.1177135
+Initial molecules,CC#Cc1ccc2nccc(NC(=O)Nc3cccc(C(F)(F)F)n3)c2c1,-7.5835137,-14.098697
+Initial molecules,CC(C)c1ccc(Nc2nccc(-c3cnn4ncccc34)n2)cc1,8.003525,-27.084888
+Initial molecules,CC(C)(C)c1cc(C=C(C#N)C#N)cc(Br)c1O,-29.212471,-19.584652
+Initial molecules,CC(C)(C)c1ccc(Nc2nccc(-c3cnn4ncccc34)n2)cc1,6.8594937,-26.478558
+Initial molecules,CC(C)(C)c1cnc(CSc2cnc(NC(=O)C3CCNCC3)s2)o1,-3.411553,14.90164
+Initial molecules,CC(C)C(CO)Nc1nc(Nc2cc(N)cc(Cl)c2)c2ncn(C(C)C)c2n1,-8.607167,-37.360897
+Initial molecules,CC(C)(C)n1nc(-c2ccc(Cl)cc2)c2c(N)ncnc21,-0.9365949,-36.750248
+Initial molecules,CC(C)(C(N)=O)n1cc(-c2cnc(N)c3c(-c4ccc(NC(=O)Nc5cccc(F)c5)cc4)csc23)cn1,0.17005247,1.7264758
+Initial molecules,CC#CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cn1,-12.432598,-16.500044
+Initial molecules,CCCn1c(C2CCN(C)CC2)nc(-c2ccc(Cl)c(Cl)c2)c1-c1ccnc(NC2CC2)n1,7.043379,41.147903
+Initial molecules,CCCn1cc(-c2cnc(N)c3c(-c4ccc(NC(=O)Nc5cccc(F)c5)cc4)csc23)cn1,0.5364121,1.9571515
+Initial molecules,CC(C)Oc1ccc2c(-c3ccnc(Nc4ccc(N5CCN(C)CC5)cc4)n3)cnn2n1,6.8611374,-24.046356
+Initial molecules,CCCOc1nc(NC(C)=O)cc(N)c1C#N,-27.043716,-27.80658
+Initial molecules,C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1,-13.742468,-18.013954
+Initial molecules,CCn1c(Nc2ccccc2F)nc2cnc(Nc3ccc(OC)cc3)nc21,-13.6548815,-33.184715
+Initial molecules,CC(N)C1CCC(C(=O)Nc2ccncc2)CC1,-5.5210166,18.638227
+Initial molecules,CCN(CC)CCNC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccc(Cl)cc32)c1C,-40.82668,-12.214993
+Initial molecules,CCN(CCO)CCCOc1ccc2c(Nc3cc(CC(=O)Nc4cccc(F)c4)[nH]n3)ncnc2c1,-11.089029,-12.070546
+Initial molecules,CCNC(=O)N1CCC(Nc2nccc(-c3c(-c4ccccc4)[nH]c4ccccc34)n2)CC1,-28.984829,24.629763
+Initial molecules,CCNC(=O)N1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-30.131489,25.923668
+Initial molecules,CCOc1nc(C(=O)NCc2ccccc2S(N)(=O)=O)cc(N)c1C#N,-27.560097,-24.808811
+Initial molecules,CCOc1nc(C(=O)NCc2ccc(S(C)(=O)=O)cc2)cc(N)c1Cl,-29.088842,-25.173471
+Initial molecules,CCOc1nc(NC(C)=O)cc(N)c1C#N,-27.000591,-27.725185
+Initial molecules,CCOc1nc(NC(=O)Cc2cc(OC)c(S(C)(=O)=O)cc2OC)cc(N)c1Cl,-24.88199,-25.627377
+Initial molecules,CCOc1nc(NC(=O)Cc2cc(OC)c(S(C)(=O)=O)cc2OC)cc(N)c1C#N,-25.173454,-26.184975
+Initial molecules,CCOC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccccc32)c1C,-37.84991,-7.464045
+Initial molecules,CC(=O)N1CCC(Nc2nccc(-c3c(-c4ccc(F)cc4)nc4occn34)n2)CC1,-26.232637,26.814642
+Initial molecules,CC(=O)Nc1cc(N)c(C#N)c(-c2ccccc2)n1,-27.432114,-29.000269
+Initial molecules,Clc1ccc(-c2nn3ncccc3c2-c2ccnc(Nc3ccc4c(c3)OCCO4)n2)cc1,9.25721,-34.665768
+Initial molecules,Cn1cc(-c2ccc3cnc(Nc4ccc(-n5cnc(N6CCOCC6)n5)cc4)nc3c2C2CC2)cn1,36.382507,-32.161392
+Initial molecules,Cn1cc(-c2ccc3cnc(Nc4ccc(-n5cnc(N6CCOCC6)n5)cc4)nc3c2)cn1,37.203545,-32.474037
+Initial molecules,CN1CCC(c2c(O)cc(O)c3c(=O)cc(-c4ccccc4Cl)oc23)C(O)C1,-24.181147,-3.0590045
+Initial molecules,CN1CCCn2cc(c3ccccc32)C2=C(C(=O)NC2=O)c2cn(c3ccccc23)CCOCCOCC1,-31.272976,-0.34509185
+Initial molecules,CN1CCN(c2ccc3nc(-c4c(N)c5c(F)cccc5[nH]c4=O)[nH]c3c2)CC1,-25.569454,1.4383892
+Initial molecules,CN1CCN(c2ccc(Nc3nccc(-c4cnn5ncccc45)n3)cc2)CC1,6.7822514,-24.735172
+Initial molecules,CN1CCN(c2nc(C3=C(c4c[nH]c5ccccc45)C(=O)NC3=O)c3ccccc3n2)CC1,-27.435547,1.5749794
+Initial molecules,Cn1cc(Nc2ncc(Cl)c(Nc3ccccc3C(N)=O)n2)cn1,-8.369608,-26.564157
+Initial molecules,CN1CCN(c2ncn(-c3ccc(Nc4nccc(-c5cc(F)cc(N6CCOCC6)c5)n4)cc3)n2)CC1,1.2756054,-13.601119
+Initial molecules,CN1CCOCCn2cc(c3ccccc32)C2=C(C(=O)NC2=O)c2cn(c3ccccc23)CCN(C)CC1,-31.357851,-1.4840058
+Initial molecules,CN1CCOCCn2cc(c3ccccc32)C2=C(C(=O)NC2=O)c2cn(c3ccccc23)CCOCC1,-31.578253,-0.91307193
+Initial molecules,Cn1nnc(-c2ccc(Nc3nccc(-c4cc(C#N)cc(N5CCOCC5)c4)n3)cc2)n1,3.8898678,-15.178999
+Initial molecules,Cn1sc(=O)n(Cc2ccccc2)c1=O,-20.551533,44.005623
+Initial molecules,CNc1cc2c(Nc3cccc(Br)c3)ncnc2cn1,-13.065,-15.24816
+Initial molecules,CNC1CC2OC(C)(C1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,-37.15006,3.1725316
+Initial molecules,CNc1nc(C)c(-c2ccnc(Nc3ccc(N4CCNCC4)cc3)n2)s1,7.52076,-7.208193
+Initial molecules,CN(C)c1cc2cc(n1)CCCn1cc(c3ccccc31)C1=C(C(=O)NC1=O)c1cn(c3ccccc13)CCC2,-31.17567,1.707303
+Initial molecules,CN(C)c1c(-c2ccnc(NC3CCC(O)CC3)n2)cnn1Cc1ccccc1,-20.004093,44.214626
+Initial molecules,CN(C)c1nc2ccc1CCCn1cc(c3ccccc31)C1=C(C(=O)NC1=O)c1cn(c3ccccc13)CC2,-32.265705,2.7319286
+Initial molecules,CN(C)c1nc2ccc1CCCn1cc(c3ccccc31)C1=C(C(=O)NC1=O)c1cn(c3ccccc13)CCC2,-32.15201,2.6960454
+Initial molecules,CN(C)CC1CCn2cc(c3ccccc32)C2=C(C(=O)NC2=O)c2cn(c3ccccc23)CCO1,-32.35323,0.34119064
+Initial molecules,CN(C)CC=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OC1CCOC1,-13.001129,-17.887318
+Initial molecules,CN(C)CCCn1cc(C2=C(c3c[nH]c4ccccc34)C(=O)NC2=O)c2ccccc21,-33.636463,0.7457532
+Initial molecules,CN(C)CCNc1cncc(-c2ccc3[nH]cc(-c4ccnc(N)n4)c3c2)n1,7.545574,20.69457
+Initial molecules,CNC(=O)c1ccccc1Nc1nc(Nc2ccc(N3CCOCC3)cc2OC)ncc1Cl,-13.1839905,-24.53896
+Initial molecules,CNC(=O)C1CCC(Nc2ncc3nc(Nc4c(F)cc(F)cc4F)n(C4CCOC4)c3n2)CC1,-20.96324,19.409334
+Initial molecules,CNC(=O)CN1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-31.943596,26.994822
+Initial molecules,CNS(=O)(=O)c1ccccc1Nc1nc(Nc2cc(OC)c(OC)c(OC)c2)ncc1Cl,-12.519973,-28.123823
+Initial molecules,COc1cc2c(cc1Cl)C(c1cccc(Cl)c1)=NCC2,-16.898212,-5.79911
+Initial molecules,COc1cc2c(cc1Cl)C(c1ccc(Cl)c(Cl)c1)=NCC2,-16.891205,-5.7893386
+Initial molecules,COc1cc2nccc(Oc3ccc(NC(=O)Nc4cc(C)on4)c(Cl)c3)c2cc1OC,-17.056015,-17.891886
+Initial molecules,COc1cc2ncnc(Nc3ccc(NC(=O)c4ccccc4)cc3)c2cc1OC,-15.760311,-15.1417885
+Initial molecules,COc1cc2ncnc(Nc3ccc(OCc4ccccc4)cc3)c2cc1OC,-15.160377,-13.498391
+Initial molecules,COc1ccc2c(c1)C(=Cc1cnc[nH]1)C(=O)N2,-37.575684,-10.036656
+Initial molecules,COc1cc(-c2ccc3c(c2)NC(=O)c2ccc(-c4ccccc4NS(C)(=O)=O)cc2N3)cc(OC)c1OC,-34.82943,-11.383467
+Initial molecules,COc1ccc2c(c[n+](C)c3c4cc5c(cc4ccc23)OCO5)c1OC,-21.446249,-13.139588
+Initial molecules,COc1ccc(-c2cccc3cnc(Nc4ccc(-n5cnc(-c6ccccn6)n5)cc4)nc23)cc1F,33.081062,-31.972406
+Initial molecules,COc1ccc(-c2cccc3cnc(Nc4ccc(-n5cnc(C)n5)cc4)nc23)cc1F,33.357533,-31.85947
+Initial molecules,COc1ccc(-c2cccc3cnc(Nc4ccc(-n5cnc(N6CCOCC6)n5)cc4)nc23)cc1F,33.98706,-31.940056
+Initial molecules,COc1ccc(-c2cnc3c(-c4ccsc4)cnn3c2)cc1,-22.920397,50.538094
+Initial molecules,COc1cc(C=C2C(=O)NN(c3ccc(C#N)cc3)C2=O)ccc1O,-33.17113,-15.748906
+Initial molecules,COc1ccc(-c2nn3ncccc3c2-c2ccnc(Nc3ccc4c(c3)OCCO4)n2)cc1,9.555452,-33.94374
+Initial molecules,COc1ccc(-c2nn3ncccc3c2-c2ccnc(Nc3ccccc3)n2)cc1,7.070847,-33.591133
+Initial molecules,COc1cccc(-c2cc(=O)c3ccccc3o2)c1N,-22.256554,-4.9384274
+Initial molecules,COc1ccc(C=C(C#N)C#N)cc1,-28.790417,-19.81634
+Initial molecules,COc1ccc(N2CCN(C(C)C)CC2)cc1Nc1nc(Nc2cccc(F)c2C(N)=O)c2cc[nH]c2n1,-17.572643,-27.076979
+Initial molecules,COc1ccc(Nc2ncc3nc(Nc4ccccc4F)n(C4CCC(C(N)=O)CC4)c3n2)cc1,-15.547474,-32.030735
+Initial molecules,COc1ccc(Nc2ncc3nc(Nc4ccccc4F)n(C4CCC(N)CC4)c3n2)cc1,-15.580144,-32.731243
+Initial molecules,COc1ccc(Nc2ncc3nc(Nc4ccccc4F)n(C4CCC(O)CC4)c3n2)cc1,-14.908392,-32.64059
+Initial molecules,COc1ccc(Nc2ncc3nc(Nc4ccccc4F)n(C4CCOCC4)c3n2)cc1,-14.962762,-33.486374
+Initial molecules,COc1ccc(S(=O)(=O)N(CCO)c2ccccc2CN(C)CC=Cc2ccc(Cl)cc2)cc1,-27.55143,-19.942265
+Initial molecules,COc1cc(N2CCN(C(C)C)CC2)ccc1Nc1nc(Nc2cccc(F)c2C(N)=O)c2cc[nH]c2n1,-17.561567,-27.068848
+Initial molecules,COc1cc(Nc2ncc([N+](=O)[O-])c(Nc3ccccc3C(N)=O)n2)cc(OC)c1OC,-12.5238285,-27.016796
+Initial molecules,COc1cc(S(C)(=O)=O)c(OC)cc1CC(=O)Nc1cc(N)c(C#N)c(OC(C)C)n1,-24.779022,-26.457685
+Initial molecules,COC1C(N(C)C(=O)c2ccccc2)CC2OC1(C)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,-37.14765,3.172941
+Initial molecules,CSc1ccc(-c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)cc1,-11.165509,5.5632224
+Initial molecules,CSc1nc(-c2ccc(F)cc2)c(-c2ccnc(NC3CCc4ccccc43)c2)[nH]1,-5.5092783,8.592251
+Initial molecules,CSc1nc(-c2ccc(F)cc2)c(-c2ccnc(NCC3CCCO3)c2)[nH]1,-6.235728,8.474639
+Initial molecules,CSc1nc(-c2ccc(F)cc2)c(-c2ccnc(NC(C)c3ccccc3)c2)[nH]1,-5.561003,7.6832433
+Initial molecules,CSc1nc(-c2ccc(F)cc2)c(-c2ccnc(NC(C)CCc3ccccc3)c2)[nH]1,-5.701985,7.2370534
+Initial molecules,CS(=O)(=O)Nc1ccc(-c2ccnc(Nc3ccc(-n4ccnn4)cc3)n2)cc1,22.2515,-11.100487
+Initial molecules,Fc1ccc(-c2nn3ncccc3c2-c2ccnc(Nc3ccc4c(c3)OCCO4)n2)cc1,9.757174,-35.163868
+Initial molecules,Fc1ccc(-c2nn3ncccc3c2-c2ccnc(Nc3ccccc3)n2)cc1,6.8312345,-34.834103
+Initial molecules,Fc1ccc(-c2nn3ncccc3c2-c2ccnc(Nc3ccc(Cl)c(C(F)(F)F)c3)n2)cc1,6.2939477,-38.88788
+Initial molecules,Fc1ccc(-c2nn3ncccc3c2-c2ccnc(Nc3ccc(F)c(F)c3)n2)cc1,6.268613,-36.59229
+Initial molecules,Fc1ccc(-c2n[nH]cc2-c2ccnc(Nc3ccc(N4CCOCC4)cc3)c2)cc1,6.05125,-14.498122
+Initial molecules,Fc1ccc(Nc2nccc(-c3c(-c4cccc(C(F)(F)F)c4)nn4ncccc34)n2)cc1F,7.5359216,-36.754322
+Initial molecules,Fc1ccc(Nc2nccc(-c3c(-c4ccc(Cl)cc4)nn4ncccc34)n2)cc1F,5.668205,-36.43085
+Initial molecules,FC(F)(F)c1cccc(-c2nn3ncccc3c2-c2ccnc(Nc3ccc4c(c3)OCCO4)n2)c1,9.362755,-36.23341
+Initial molecules,FC(F)(F)c1cccc(-c2nn3ncccc3c2-c2ccnc(Nc3ccccc3)n2)c1,8.071809,-36.321835
+Initial molecules,FC(F)(F)c1cc(Nc2nccc(-c3c(-c4ccc(Cl)cc4)nn4ncccc34)n2)ccc1Cl,5.960603,-38.363457
+Initial molecules,Nc1ccc2ncnc(NCCc3ccc(Oc4ccccc4)cc3)c2c1,-15.08502,-11.805016
+Initial molecules,Nc1cccc(-c2cc3c(Oc4cccc(O)c4)ncnc3[nH]2)c1,-14.764207,-10.554684
+Initial molecules,NC1CCC(Nc2cc(Cl)nc(-c3c[nH]c4ncccc34)n2)CC1,-20.813406,35.784107
+Initial molecules,Nc1nc(Nc2ccc(S(N)(=O)=O)cc2)nn1C(=O)c1c(F)cccc1F,35.095783,-1.42977
+Initial molecules,Nc1ncnc2[nH]nc(Nc3ccc(F)cc3)c12,-4.930302,-30.673973
+Initial molecules,Nc1n[nH]c2nc3ccccc3nc12,-18.77844,-9.106701
+Initial molecules,N#Cc1cc(-c2ccnc(Nc3ccc(-n4cnc(-c5ccccn5)n4)cc3)n2)cc(N2CCOCC2)c1,3.543403,-16.418873
+Initial molecules,N#Cc1ccc(Nc2nccc(-c3cnn4ncccc34)n2)cc1,7.0328,-28.101627
+Initial molecules,N#Cc1ccc(Nc2ncc(Cl)c(Nc3ccccc3C(N)=O)n2)cc1,-9.842034,-26.940968
+Initial molecules,N#Cc1cnc2cnc(NCc3cccnc3)cc2c1Nc1ccc(F)c(Cl)c1,-11.592222,-16.586527
+Initial molecules,N#Cc1c(NC(=O)c2cccc3ccccc23)sc2c1CCCN2C(=O)C1CC1,-27.591042,-29.527946
+Initial molecules,N#CC(=Cc1ccc(O)c(O)c1)C(=O)NCc1ccccc1,-28.511484,-22.763737
+Initial molecules,NCCCn1cc(-c2cc(-c3cc4ccccc4s3)c3[nH]ncc3c2)c2nc(N)ncc21,-19.066193,14.2547865
+Initial molecules,NCCn1cc(-c2cc(-c3cc4ccccc4s3)c3[nH]ncc3c2)c2nc(N)ncc21,-19.070446,14.247747
+Initial molecules,NCCNc1ncc(C(N)=O)c(Nc2cccc(C(F)(F)F)c2)n1,-8.431562,-22.234716
+Initial molecules,NC(=O)c1cc(-c2ccnc(Nc3ccccc3)n2)[nH]c1-c1ccccc1,13.885033,3.4888635
+Initial molecules,NC(=O)c1ccc2[nH]c(-c3ccc(Oc4ccc(Cl)cc4)cc3)nc2c1,-25.973469,-15.39916
+Initial molecules,NC(=O)c1ccccc1Nc1nc(Nc2ccc(Cl)cc2)ncc1Cl,-9.959208,-27.351109
+Initial molecules,NC(=O)c1ccccc1Nc1nc(Nc2ccc(F)cc2)ncc1Cl,-9.27696,-27.698881
+Initial molecules,NC(=O)c1ccccc1Nc1nc(Nc2ccc(N3CCOCC3)cc2F)ncc1Cl,-11.484948,-24.707235
+Initial molecules,NC(=O)c1ccccc1Nc1nc(Nc2ccc(N3CCOCC3)c(F)c2)ncc1Cl,-11.186315,-25.299671
+Initial molecules,O=C1c2ccccc2-c2nc3nnnn3nc21,-21.353668,-0.14793485
+Initial molecules,O=C1c2ccccc2-c2n[nH]c3cccc1c23,-21.355906,-0.14342977
+Initial molecules,O=c1cc(-c2cccc3c2Sc2ccccc2S3)oc(N2CCOCC2)c1,-25.831144,-4.995412
+Initial molecules,Oc1cccc(-c2nc(N3CCOCC3)c3oc4ncccc4c3n2)c1,-27.14931,-6.4901004
+Initial molecules,OC1CCC(Nc2cc(Cl)nc(-c3c[nH]c4ncccc34)n2)CC1,-19.909698,36.003956
+Initial molecules,Oc1ccc(Nc2nc(-c3ccc(Cl)cc3)cs2)cc1,22.194838,2.7730064
+Initial molecules,OC1CCC(Nc2ncc3nc(Nc4c(F)cc(F)cc4F)n(C4CCOC4)c3n2)CC1,-21.135246,19.478445
+Initial molecules,OC1CCC(Nc2ncc3nnn(C45CC6CC(CC(O)(C6)C4)C5)c3n2)CC1,-22.918371,21.101381
+Initial molecules,O=c1cc(N2CCNCC2)oc2c(-c3ccccc3)cccc12,-26.603638,-2.6957204
+Initial molecules,O=c1cc(N2CCOCC2)oc2c1ccc1ccccc12,-27.05088,-4.465342
+Initial molecules,O=c1cc(N2CCOCC2)oc2c(-c3ccccc3)cccc12,-26.42887,-4.0265555
+Initial molecules,O=C1Nc2ccccc2C1=Cc1c(Cl)[nH]c2ccccc12,-35.9079,-6.0650506
+Initial molecules,O=C1NC(=O)C2=C1c1cn(c3ccccc13)CCOCCOCCn1cc2c2ccccc21,-32.546688,-1.0773016
+Initial molecules,O=C1NC(=O)C2=C1c1cn(c3ccccc13)CCOCCOCCOCCn1cc2c2ccccc21,-32.546688,-1.0773016
+Initial molecules,O=C1NC(=O)C(c2cn(CCCO)c3ncccc23)=C1c1cnccn1,-34.519928,0.4320727
+Initial molecules,O=C1NC(=O)C(c2c[nH]c3ccccc23)=C1c1nc(N2CCNCC2)nc2ccccc12,-27.536964,1.5880204
+Initial molecules,O=C1NC(=O)C(=Cc2ccc3nccnc3c2)S1,-40.545593,-3.222108
+Initial molecules,O=c1[nH]c2ccccc2n1C1CCN(Cc2ccc(-c3nc4cc5[nH]cnc5cc4nc3-c3ccccc3)cc2)CC1,-17.021538,24.794144
+Initial molecules,O=C(c1ccccc1)c1ccc(N2CCOCC2)cc1O,-24.50393,-8.87568
+Initial molecules,O=C(CCCc1ccc(-c2ccccc2F)cc1)Nc1ccc(O)cc1,3.4335327,1.9178537
+Initial molecules,OCCCNc1cc(-c2ccnc(Nc3cccc(Cl)c3)n2)ccn1,27.106573,-0.23891854
+Initial molecules,O=C(Nc1cccc(C(F)(F)F)n1)Nc1ccnc2cc(F)c(F)cc12,-7.0629883,-14.831138
+Initial molecules,O=C(Nc1ccc(Cl)cc1)c1ccccc1NCc1ccncc1,-22.297953,-20.927935
+Initial molecules,O=C(Nc1cccc(Nc2cc(Nc3cccc(C(F)(F)F)c3)ncn2)c1)C1CC1,-8.585074,-21.531054
+Initial molecules,O=C(Nc1nc2ccccc2n1CCN1CCOCC1)c1cccc([N+](=O)[O-])c1,-22.570602,-9.610657
+Initial molecules,O=C(O)c1ccc2c3c1cccc3c(=O)n1c3ccccc3nc21,-20.914104,-10.225154
+Initial molecules,O=C(O)c1ccc(Nc2ncc3c(n2)-c2ccc(Cl)cc2C(c2c(F)cccc2F)=NC3)cc1,-2.8218062,-27.881313
+Initial molecules,O=C(O)c1ccc(Nc2nccc(-c3cnn4ncccc34)n2)cc1,5.1326795,-27.382944
+Initial molecules,O=C(O)C=Cc1cc(Br)c(Br)c(Br)c1Br,-29.947056,-18.870138
+Initial molecules,O=[N+]([O-])c1ccc(Nc2nccc(-c3cnn4ncccc34)n2)cc1,5.9634995,-28.489977
+Initial molecules,O=[N+]([O-])C=Cc1ccc2c(c1)OCO2,-23.586357,-13.642653
+Initial molecules,O=S(=O)(c1cccc2cnccc12)N1CCCNCC1,-11.545679,-1.9440143
+Initial molecules,O=S(=O)(NCCNCC=Cc1ccc(Br)cc1)c1cccc2cnccc12,-10.479867,-2.471694
+GB-GA crossover variant,COc1ccc(Nc2nccc(C3=CCCC3)n2)cc1,27.832611,-16.864208
+GB-GA crossover variant,N#Cc1cc(-c2ccnc(Nc3ccncc3)n2)cc(N2CCOCC2)c1,3.235326,-15.002707
+GB-GA crossover variant,CCNc1ccc(-c2ccnc(NC3=COCC3)n2)cc1,17.540089,-14.394693
+GB-GA crossover variant,NC1CCC(c2ccc(Nc3nccc(-c4ccccn4)n3)cc2)CC1,29.676168,-8.294732
+GB-GA crossover variant,O=S(=O)(Cl)c1ccc(Nc2nccc(C3=CC=CC3)n2)cc1,20.647825,-23.542082
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(-c4cccc(F)c4)n3)cc2)n1,37.83218,-18.736164
+GB-GA crossover variant,Fc1cc(-c2ccnc(NC3CCCCC3)n2)cc(N2C=CC=CC2)c1,-2.0505648,-4.44279
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(NCl)n3)cc2)n1,38.170242,-25.24339
+GB-GA crossover variant,COC=Cc1ccnc(Nc2ccc(-n3cnc(C)n3)cc2)n1,41.40294,-25.361963
+GB-GA crossover variant,Cc1ccc(-c2ccnc(Nc3ccc(-n4cnc(C)n4)cc3)n2)cc1,36.79524,-21.19159
+GB-GA crossover variant,Nc1ccc(Nc2nccc(C3=NC=CC3C=CCl)n2)cc1,37.11832,-12.187653
+GB-GA crossover variant,Cc1ccc(-c2ccnc(Nc3ccc(S(=O)(=O)Cl)cc3)n2)s1,33.0974,-0.29046667
+GB-GA crossover variant,COc1ccc(Nc2ncc(Cl)c(Nc3ccccc3C)n2)cc1,-11.156926,-30.327423
+GB-GA crossover variant,Cc1[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c(C)c1C(=O)NC1=CC=CCC1,-42.061287,-7.314018
+GB-GA crossover variant,CCC(=O)c1ccc(Nc2nccc(-c3ccc(F)cc3)n2)cc1,12.954781,-0.048318688
+GB-GA crossover variant,c1ccc(Nc2nccc(-c3nccc(N4CCOCC4)n3)n2)cc1,10.107992,-13.273457
+GB-GA crossover variant,Clc1cc(NC2CCCCC2)nc(-c2c[nH]c3ncccc23)n1,-20.260328,34.862534
+GB-GA crossover variant,c1ccc(N2CCOCC2)c(-c2ccnc(NC3CCCCC3)n2)c1,8.8283825,25.896046
+GB-GA crossover variant,O=S(=O)(Cl)c1ccc(Nc2nccc(C3=CC=COC3)n2)cc1,20.299496,-26.076427
+GB-GA crossover variant,CC(C)c1ccc(Nc2nccc(-c3cnn4ncccc34)n2)cc1,8.003524,-27.084888
+GB-GA crossover variant,O=S(=O)(c1ccc(Nc2nccc(-c3ccccc3)n2)cc1)N1CCOCC1,12.206414,-12.066792
+GB-GA crossover variant,Fc1ccc(Nc2nccc(-c3ccccc3N3CCOCC3)n2)cc1,8.171721,-13.672298
+GB-GA crossover variant,N#Cc1ccc(-c2ccnc(NC3=CC(F)=CC3N3CCOCC3)n2)cc1,10.573543,-16.574423
+GB-GA crossover variant,Fc1ccc(-c2ccnc(NC3C=COCC3)n2)cc1,9.719128,14.164772
+GB-GA crossover variant,Cc1cc(Cl)nc(C2=CC=C(c3ccnc(NC4CCCCC4)n3)C2)n1,8.053607,31.356953
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(-c4ccc(F)cc4)n3)cc2)n1,37.960968,-20.56483
+GB-GA crossover variant,O=C(Nc1ccc(Cl)cc1)c1ccccc1NCc1ccncc1,-22.360483,-20.932743
+GB-GA crossover variant,c1ccc(Nc2nccc(-c3nccc(-c4ccccn4)n3)n2)cc1,28.94644,-6.8165426
+GB-GA crossover variant,Clc1noc(CN2CC=CCC2)c1-c1ccnc(NC2CCCCC2)n1,-18.70122,27.86348
+GB-GA crossover variant,Fc1ncn(-c2ccc(Nc3nccc(-c4ccccn4)n3)cc2)n1,34.961456,-17.622309
+GB-GA crossover variant,O=S(=O)(C1=CC=CCC1)c1ccc(Nc2nccc(C3=CC=CCC3)n2)cc1,23.535383,-25.498713
+GB-GA crossover variant,Cc1ccc(-c2ccnc(Nc3ccc(-n4cnc(F)n4)cc3)n2)s1,36.05237,-16.852398
+GB-GA crossover variant,COc1ccc(Nc2ncc(Cl)c(NC3=CC=NC3)n2)cc1,-10.873071,-31.18467
+GB-GA crossover variant,Cc1ccnc(Nc2ccc(-c3ccnc(NC4CCCCC4)n3)cc2)n1,1.6950909,31.041868
+GB-GA crossover variant,COc1ccc(Nc2nccc(C3=CC=CC3)n2)cc1,20.223213,-21.347872
+GB-GA crossover variant,OC1CCC(Nc2ncc3nc(NC4=CCCCC4)n(C4CCCC4)c3n2)CC1,-23.063152,19.87673
+GB-GA crossover variant,Cc1ccc(Nc2nccc(C3=CC=NC3)n2)cc1,16.392904,-24.787413
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(N4C=C(Cl)CC4)n3)cc2)n1,38.786514,-26.940567
+GB-GA crossover variant,FC1=CC=C(c2ccnc(NC3CCCCC3)n2)C1,7.7209682,30.27086
+GB-GA crossover variant,CCCNC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccc(C)cc32)c1C,-42.061096,-10.433683
+GB-GA crossover variant,Cc1ccnc(Nc2ccc(-n3cnc(N4CCOCC4)n3)cc2)n1,37.671715,-29.057318
+GB-GA crossover variant,O=S(=O)(Cl)c1ccc(-c2ccnc(NC3CCCCC3)n2)cc1,1.8215648,28.519836
+GB-GA crossover variant,Fc1ncn(-c2ccc(Nc3nccc(C4=CCCCC4)n3)cc2)n1,30.94031,-19.471409
+GB-GA crossover variant,N#Cc1cc(-c2ccnc(NC3=CC=CC3Cl)n2)cc(N2CCOCC2)c1,2.3952234,-15.242628
+GB-GA crossover variant,O=S(=O)(F)c1ccc(Nc2nccc(-c3ccccc3)n2)cc1,20.95713,-8.237305
+GB-GA crossover variant,NC(=O)c1ccccc1-c1ccnc(Nc2ccc(C3=CC=CC3)cc2)n1,17.728142,-19.79065
+GB-GA crossover variant,Fc1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,14.457621,-2.5201066
+GB-GA crossover variant,Fc1cc(-c2ccnc(NC3=CC=CCC3)n2)cc(N2CCOCC2)c1,-0.12240281,-10.8707905
+GB-GA crossover variant,CCCC1=CCC(Nc2nccc(-c3cc(F)cc(N4CCOCC4)c3)n2)C1,-1.64094,-7.388151
+GB-GA crossover variant,C1=C(Nc2nccc(-c3c(-c4ccccc4)noc3CN3CCCCC3)n2)CCOC1,-19.779608,25.773571
+GB-GA crossover variant,O=S(=O)(Cl)c1ccc(Nc2nccc(-c3ccccc3)n2)cc1,21.048555,-8.057525
+GB-GA crossover variant,CC=Cc1ccc(Nc2nccc(C3=CC(Cl)=CC(N)C3)n2)cc1,21.72851,-17.007765
+GB-GA crossover variant,COS(=O)(=O)c1ccc(Nc2nccc(C3=CC=CCC3)n2)cc1,21.685347,-25.184233
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(-c4ccccc4)n3)cc2)n1,35.738956,-20.202381
+GB-GA crossover variant,FC1=CC=C(Nc2nccc(-c3cc(F)cc(N4CCOCC4)c3)n2)C1,0.46980992,-10.21239
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(C4=NC=CC4C4=CC=CC4)n3)cc2)n1,38.616894,-15.129795
+GB-GA crossover variant,Cc1ccc(Nc2nccc(-c3cc(F)cc(N4CCOCC4)c3)n2)s1,1.3864983,-9.166877
+GB-GA crossover variant,Cc1ccc(C2C=CN=C2Nc2nccc(-c3cc(F)cc(N4CCOCC4)c3)n2)s1,1.5379906,-8.607554
+GB-GA crossover variant,Fc1cc(-c2ccnc(NC3CCCCC3)n2)cc(N2CCOCC2)c1,-1.9236611,-6.2642093
+GB-GA crossover variant,CC1C=CN=C1c1ccnc(Nc2ccc(F)cc2)n1,36.08608,-6.715489
+GB-GA crossover variant,c1ccc(-c2ccnc(Nc3nccc(-c4ccccc4)n3)n2)cc1,17.863249,-7.408633
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(C4=CCCCC4)n3)cc2)n1,31.791296,-20.617548
+GB-GA crossover variant,C1=CCCC(c2ccnc(Nc3ccnc(NC4CCCCC4)n3)n2)=C1,4.76619,24.905006
+GB-GA crossover variant,C1=CN(c2ccc(Nc3nccc(C4=CCCCC4)n3)cc2)NC1,28.85442,-18.840843
+GB-GA crossover variant,C1=C(c2ccnc(Nc3ccc(-n4cnc(C5=COCC5)n4)cc3)n2)CCC1,30.591232,-20.771816
+GB-GA crossover variant,O=S(=O)(c1ccc(-c2ccnc(Nc3ccccc3)n2)cc1)N1CCOCC1,12.338292,-12.09376
+GB-GA crossover variant,c1ccc(-c2ccnc(NC3CCCCC3)n2)nc1,4.828881,26.983122
+GB-GA crossover variant,NC(=O)c1ccc(Nc2nccc(C3=C(F)C(F)C=C3)n2)cc1,11.760273,2.0327954
+GB-GA crossover variant,C1=C(c2ccnc(Nc3ccc(-n4cc5c(n4)CCNC5)cc3)n2)CCC1,29.48372,-20.327408
+GB-GA crossover variant,CCN(CC)CCNC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c1C,-40.47105,-10.337389
+GB-GA crossover variant,Cc1[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c(C)c1C(=O)NCCN1C=CC=CC1,-42.844013,-8.262339
+GB-GA crossover variant,C1=CCCC(Nc2nccc(-c3ccccc3)n2)=C1,15.8766365,-15.70801
+GB-GA crossover variant,Cc1cc(-c2ccnc(NC3=NC=CC3)n2)cc(N2CCOCC2)c1,3.5533872,-9.234769
+GB-GA crossover variant,CC1=C(C2=CCC(=O)C=C2)CC=C1c1ccnc(NC2CCCCC2)n1,5.4798326,30.712234
+GB-GA crossover variant,CS(=O)(=O)c1cc(-c2ccnc(NC3CCCCC3)n2)cc(N2CCOCC2)c1,-3.0163472,-6.0508876
+GB-GA crossover variant,C1=CCCC(c2ccnc(Nc3ccccc3)n2)=C1,24.28028,-23.66398
+GB-GA crossover variant,Fc1cc(Nc2nccc(C3=CC=CC3)n2)cc(N2CCOCC2)c1,-0.85891956,-12.491382
+GB-GA crossover variant,Cc1ccc(-c2ccnc(Nc3ccc(C(N)=O)cc3)n2)s1,32.05453,0.4078899
+GB-GA crossover variant,CS(=O)(=O)c1ccc(Nc2nccc(C3=CC=NC3)n2)cc1,17.161465,-25.03746
+GB-GA crossover variant,Clc1cnc(NC2=CC=NCC2)nc1Nc1nccc(C2=CC=CC2)n1,17.690102,-21.800236
+GB-GA crossover variant,CCN(CC)CCNC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccc(C)cc32)c1C,-41.24597,-11.147193
+GB-GA crossover variant,COc1ccc(Nc2ncnc3cc(OC)c(OC)cc23)cc1,-16.151476,-13.96634
+GB-GA crossover variant,C1=C(Nc2cc(-c3ccnc(Nc4ccccc4)n3)ccn2)CCO1,24.930103,-12.554634
+GB-GA crossover variant,Fc1cc(-c2ccnc(-c3ccnc(NC4CCCCC4)n3)n2)cc(N2CCOCC2)c1,-1.8750603,-6.220588
+GB-GA crossover variant,C1=CC(C2=CCOCC2)C(c2ccnc(-c3ccnc(Nc4ccccc4)n3)n2)=N1,37.847614,-8.5058565
+GB-GA crossover variant,Fc1ccc(-c2ccnc(Nc3ccccn3)n2)cc1,14.0435705,-3.508882
+GB-GA crossover variant,Fc1ncn(-c2ccc(Nc3nccc(-c4ccccc4)n3)cc2)n1,34.885265,-17.077707
+GB-GA crossover variant,Fc1ccc(Nc2nccc(C3=CCCCC3)n2)cc1,27.924438,-17.966614
+GB-GA crossover variant,ClNc1ccc(-c2ccnc(Nc3ccccc3)n2)nn1,28.751953,-4.9609494
+GB-GA crossover variant,COc1cc2ncnc(Nc3ccc(OC4=CC=CC4)cc3)c2cc1OC,-16.678036,-13.105779
+GB-GA crossover variant,c1ccc2c(-c3ccncc3)c[nH]c2c1,-17.496445,2.7041266
+GB-GA crossover variant,O=S(=O)(F)c1ccc(Nc2nccc(C3=CC=CC3)n2)cc1,20.19949,-22.764372
+GB-GA crossover variant,O=S(=O)(F)c1ccc(Nc2nccc(C3=CC=NC3)n2)cc1,17.364485,-25.051525
+GB-GA crossover variant,Cc1[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c(C)c1C(=O)NCCN1CCOCC1,-40.571243,-7.3896165
+GB-GA crossover variant,CS(=O)(=O)c1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,16.753798,-4.2845874
+GB-GA crossover variant,N#Cc1ccc(-c2ccnc(Nc3ccc(Cl)cc3)n2)cc1,24.747665,3.485256
+GB-GA crossover variant,CC(=O)Nc1ccc(Nc2nccc(-c3ccc(F)cc3)n2)cc1,13.661761,-0.7717192
+GB-GA crossover variant,c1ccc(Nc2ccnc(-c3ccnc(NC4CCCCC4)n3)n2)cc1,3.2957263,25.607607
+GB-GA crossover variant,C1=CN(c2ccc(Nc3nccc(C4=CCCCC4)n3)cc2)CN=C1,29.455263,-18.311186
+GB-GA crossover variant,Cc1ncn(C2=CCC(Nc3nccc(-c4cc(F)cc(N5CCOCC5)c4)n3)C=C2)n1,-0.55736357,-8.193054
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(NC4=COCC4)n3)cc2)n1,37.387196,-26.49064
+GB-GA crossover variant,C1=CCCC(Nc2ccc(-c3ccnc(NC4=COCC4)n3)cc2)=C1,17.142746,-14.937472
+GB-GA crossover variant,Fc1ccc(Nc2ncc(Cl)c(Nc3ccc(F)cc3)n2)cc1,-7.2081633,-29.93888
+GB-GA crossover variant,OC1CCC(Nc2nccc(C3=NCN=C3)n2)CC1,-10.108574,35.09372
+GB-GA crossover variant,NC1=CC=C(c2ccnc(Nc3ccccc3)n2)C1,27.112753,-13.365296
+GB-GA crossover variant,N#Cc1ccc(Nc2nccc(-c3cc(F)cc(N4CCOCC4)c3)n2)cc1,2.8514187,-13.025218
+GB-GA crossover variant,Cc1ccc2c(c1)C(=Cc1[nH]c(C)c(C(=O)NCCC3=CC=CC3)c1C)C(=O)N2,-42.824078,-9.726817
+GB-GA crossover variant,CN(C)c1c(-c2ccnc(NC3CCC(F)CC3)n2)cnn1Cc1ccccc1,-19.254597,44.627876
+GB-GA crossover variant,CC1=C(c2ccnc(Nc3ccc(-n4cnc(C)n4)cc3)n2)CCS1,34.81572,-22.436209
+GB-GA crossover variant,C1=CCC(c2ccnc(Nc3ccc(-n4cnc(CN5CCCCC5)n4)cc3)n2)=C1,29.655178,-25.175825
+GB-GA crossover variant,NC1C=C(F)C=C(C2=C(Nc3nccc(-c4ccccc4)n3)CCC2)C1,21.277199,-14.250409
+GB-GA crossover variant,Fc1ccc(-c2ccnc(Nc3ccccc3)n2)[nH]1,25.502398,-7.4633207
+GB-GA crossover variant,C1=C(c2ccnc(Nc3ccccc3)n2)COC1,25.767328,-14.94805
+GB-GA crossover variant,CCNC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c1OC,-39.162792,-9.303972
+GB-GA crossover variant,Fc1ccc(Nc2nccc(-c3ccc(F)cc3)n2)cc1,13.794294,-2.1406076
+GB-GA crossover variant,FC1CCc2ccc(Nc3nccc(-c4ccccc4)n3)cc2C1,11.043636,6.8397565
+GB-GA crossover variant,CCN(CC)CCc1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,18.892212,-0.6341958
+GB-GA crossover variant,Fc1cc(-c2ccnc(NC3C=C4CCCNC4=CC3)n2)cc(N2CCOCC2)c1,-1.5859874,-8.827997
+GB-GA crossover variant,NC1C=CN=C1c1ccnc(Nc2ccccc2)n1,34.327553,-7.82268
+GB-GA crossover variant,FC1=C(c2ccnc(Nc3ccccc3)n2)C=CC1,25.154716,-9.335867
+GB-GA crossover variant,Cc1ccc(-c2ccnc(Nc3ccccc3)n2)s1,31.88974,-0.6745288
+GB-GA crossover variant,CCOC1=C(c2ccnc(Nc3ccc(-n4cnc(C)n4)cc3)n2)CCC1,34.371307,-21.520971
+GB-GA crossover variant,CCN(CC)CCNC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccccc32)c1C,-39.910202,-11.696646
+GB-GA crossover variant,CC=Cc1ccc(Nc2nccc(C3=NC=CC3C3=CCOCC3)n2)cc1,38.51011,-8.574771
+GB-GA crossover variant,CN(C)c1c(-c2ccnc(NC3CCC(O)CC3)n2)cnn1Cc1ccccc1,-20.004105,44.21458
+GB-GA crossover variant,Fc1ccc(Nc2nccc(C3=CCOCC3)n2)cc1,25.712156,-18.014027
+GB-GA crossover variant,O=S(=O)(c1ccccc1)c1ccc(Nc2nccc(C3=CC=CCC3)n2)cc1,23.49449,-24.756859
+GB-GA crossover variant,COc1ccnc(Nc2ccc(-n3cnc(C)n3)cc2)n1,38.397015,-23.24929
+GB-GA crossover variant,CNC(=O)Cc1cc(-c2ccc(Nc3nccc(C4=CC=NC4)n3)cc2)ccc1OC,15.89234,-25.7334
+GB-GA crossover variant,Fc1ccc(-c2ccnc(Nc3ccnc(NC4CCCCC4)n3)n2)cc1,0.9377263,25.64155
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(C4=CC=C(F)CS4)n3)cc2)n1,33.780285,-24.62455
+GB-GA crossover variant,CC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c1C,-39.770267,-8.233297
+GB-GA crossover variant,CCCNC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c1C,-40.941166,-9.207907
+GB-GA crossover variant,Cc1[nH]c(C=C2C(=O)Nc3ccc(Cl)cc32)c(C)c1C(=O)NCCN(C)C,-41.72086,-12.115966
+GB-GA crossover variant,NC1C=C(F)C=C(c2ccnc(Nc3ccncc3)n2)C1,22.112423,-15.169159
+GB-GA crossover variant,Nc1ccc(Nc2nccc(C3=CC=CCC3)n2)cc1,25.284266,-23.9225
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(C4=CCCC4)n3)cc2)n1,31.781336,-20.813354
+GB-GA crossover variant,Fc1ccc(Nc2nccc(C3=CC=C(N4CCOCC4)C3)n2)cc1,7.842079,-14.54367
+GB-GA crossover variant,COc1ccc(Nc2nccc(-c3cc(F)cc(N4CCOCC4)c3)n2)cc1,2.7323885,-11.852665
+GB-GA crossover variant,ClC1=NOC(CN2CCCCC2)=C(c2ccnc(NC3CCCCC3)n2)C1,11.08049,33.26059
+GB-GA crossover variant,C1=NCNN1c1ccc(Nc2nccc(-c3ccccc3)n2)cc1,19.198883,-9.209344
+GB-GA crossover variant,C1=CCC(Nc2nccc(-c3ccc(C4=CC=CC4)cc3)n2)=C1,17.195238,-17.997122
+GB-GA crossover variant,CC=Cc1ccc(Nc2nccc(C3=CC=CC3)n2)cc1,21.115887,-19.46531
+GB-GA crossover variant,Fc1ccc(Nc2nccc(C3=NC=CC3C3=CCOCC3)n2)cc1,38.117794,-8.436924
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(Cl)n3)cc2)n1,37.88021,-24.636341
+GB-GA crossover variant,Fc1ccc(-c2ccnc(NC3=CC=CCC3)n2)cc1,16.297516,-15.915341
+GB-GA crossover variant,O=S(=O)(Nc1ccc(Nc2nccc(C3=CC=CC3)n2)cc1)c1ccccc1,22.055328,-22.730234
+GB-GA crossover variant,C1=C(c2ccnc(Nc3ccccc3)n2)CCC1,27.526001,-16.164614
+GB-GA crossover variant,CS(=O)(=O)c1ccccc1Nc1nc(Nc2ccc(Cl)cc2)ncc1Cl,-11.013329,-28.396324
+GB-GA crossover variant,C1=C(Nc2nccc(-c3ccccc3)n2)CCC1,16.81251,-10.001314
+GB-GA crossover variant,c1ccc(-c2ccnc(NC3CCCCC3)n2)cc1,0.685243,28.932863
+GB-GA crossover variant,Fc1ccc(Nc2nccc(C3=CC=CCC3)n2)cc1,24.870445,-23.130508
+GB-GA crossover variant,C1=CCC(c2ccnc(-c3ccnc(Nc4ccccc4)n3)n2)=C1,21.488867,-21.251694
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(-c4ccccn4)n3)cc2)n1,34.998455,-19.287592
+GB-GA crossover variant,Cc1cc2ncc(-c3ccccc3)nc2cc1C,20.926264,14.093363
+GB-GA crossover variant,c1ccc(-c2ccnc(Nc3ccnc(NC4CCCCC4)n3)n2)nc1,4.472897,26.485954
+GB-GA crossover variant,CC1=CNC(Nc2nccc(-c3cc(F)cc(N4CCOCC4)c3)n2)C=C1,0.43736103,-7.052952
+GB-GA crossover variant,Fc1ccccc1-c1ccnc(NC2CCCCC2)n1,6.996762,26.945864
+GB-GA crossover variant,Cc1ncn(-c2ccc(-c3ccnc(Nc4ccccc4)n3)cc2)n1,36.322296,-19.933268
+GB-GA crossover variant,Cc1ccc2c(c1)C(=Cc1[nH]c(C)c(C(=O)NN3CCOCC3)c1C)C(=O)N2,-43.927723,-10.170845
+GB-GA crossover variant,FC1=CC(N2CCOCC2)N(c2ccc(Nc3nccc(C4=CC=CC4)n3)cc2)N=C1,22.939201,-19.973719
+GB-GA crossover variant,NC1CCCCC1NNc1nc(Nc2ccc(F)cc2)ncc1Cl,-7.357862,-30.928888
+GB-GA crossover variant,C1=CCSC(c2ccnc(Nc3ccnc(Nc4ccccc4)n3)n2)=C1,27.619802,-27.276577
+GB-GA crossover variant,O=S(=O)(c1ccncc1)c1ccc(Nc2nccc(C3=CC=CC3)n2)cc1,19.769436,-23.545696
+GB-GA crossover variant,O=C(c1ccccc1)c1ccc(N2CCOCC2)cc1O,-24.503994,-8.8754635
+GB-GA crossover variant,COc1cccc(-c2cc(=O)c3ccccc3o2)c1N,-22.256363,-4.9387155
+GB-GA crossover variant,Nc1cc(F)cc(-c2ccnc(Nc3ccc(C4=CC=CC4)cc3)n2)c1,19.198574,-19.637203
+GB-GA crossover variant,Cc1cc(Nc2nccc(-c3ccccc3)n2)cc(N2CC=NC(C#N)C2)c1,7.8661814,-10.251188
+GB-GA crossover variant,CCCNc1ccnc(Nc2ccc(-n3cnc(C)n3)cc2)n1,39.160023,-24.88744
+GB-GA crossover variant,Oc1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,21.205687,0.37734604
+GB-GA crossover variant,FC1=C(Nc2nccc(-c3cc(F)cc(N4CCOCC4)c3)n2)CCC1,1.6913644,-10.217741
+GB-GA crossover variant,C1=CC(C2C=CN=C2c2ccnc(Nc3ccccc3)n2)=CC1,35.375458,-8.695551
+GB-GA crossover variant,Clc1ccc(Nc2nccc(-c3ccccc3)n2)cc1,21.612194,-6.1880975
+GB-GA crossover variant,NC1CCC(Nc2nccc(C3=NC=CC3Oc3ccccc3)n2)CC1,-8.131484,32.452164
+GB-GA crossover variant,CCNC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c1C,-40.32667,-8.895415
+GB-GA crossover variant,O=S(=O)(c1ccc(Nc2nccc(C3=CC=CC3)n2)cc1)N1CCOCC1,23.43855,-21.185661
+GB-GA crossover variant,CCCc1ccnc(Nc2ccc(-n3cnc(C)n3)cc2)n1,40.43234,-23.117466
+GB-GA crossover variant,Cc1cc(Nc2nccc(-c3ccccc3)n2)cc(N2CCOCC2)c1,7.818891,-10.810675
+GB-GA crossover variant,C1=CCCC(NC2N=CC=C2Nc2nccc(-c3ccccc3)n2)=C1,15.06321,-15.740832
+GB-GA crossover variant,NC1C=C(F)C=C(c2ccnc(Nc3ccccc3)n2)C1,22.037207,-14.9736395
+GB-GA crossover variant,CC=Cc1ccnc(Nc2ccc(-n3cnc(C)n3)cc2)n1,40.712765,-25.518785
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(NC4CCCCC4)n3)cc2)n1,37.005302,-25.644358
+GB-GA crossover variant,ClNc1nccc(-c2ccnc(NC3CCCCC3)n2)n1,5.01573,28.712011
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(-c4cc4=O)n3)cc2)n1,36.329296,-22.22183
+GB-GA crossover variant,Cc1[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c(C)c1C(=O)NCC1=CC=CC1,-41.700455,-8.28451
+GB-GA crossover variant,c1ccc(-c2ccnc(Nc3ccnc(NC4CCCCC4)n3)n2)cc1,2.6299949,26.325245
+GB-GA crossover variant,CS(=O)(=O)Nc1ccc(Nc2nccc(C3=C(c4ccccc4)CC=C3)n2)cc1,23.276276,-9.717837
+GB-GA crossover variant,Cc1ccc(Nc2nccc(-c3ccccn3)n2)cc1,27.894527,-7.429991
+GB-GA crossover variant,CNc1ncc(-c2ccnc(Nc3ccc(C)cc3)n2)[nH]1,25.784153,-5.66254
+GB-GA crossover variant,CNc1nccc(-c2ccnc(NC3CCCCC3)n2)n1,5.185303,29.241743
+GB-GA crossover variant,O=S(=O)(Nc1ccccc1)c1ccc(Nc2nccc(C3=CC=CCC3)n2)cc1,23.08995,-23.788546
+GB-GA crossover variant,Cc1ccc(Nc2nccc(-c3ccncc3)n2)cc1,24.647293,-4.797589
+GB-GA crossover variant,Cc1[nH]c(C=C2C(=O)Nc3ccccc32)c(C)c1CCC(=O)O,-35.972,-8.342735
+GB-GA crossover variant,Cc1ccc(Nc2nccc(-c3ccccc3)n2)cc1,23.708645,-4.489617
+GB-GA crossover variant,Cc1ccc(Nc2nccc(C3=CC=CCC3)n2)cc1,24.95516,-24.467134
+GB-GA crossover variant,COc1ccc(Nc2ncc(Cl)c(Nc3ccccc3N3CCOCC3)n2)cc1,-11.762832,-30.079788
+GB-GA crossover variant,Fc1cc(-c2ccnc(Nc3ccn[nH]3)n2)cc(N2CCOCC2)c1,1.3645315,-10.976829
+GB-GA crossover variant,c1ccc(Nc2nccc(-c3nccc(-c4ccccc4)n3)n2)cc1,21.182333,-4.1754546
+GB-GA crossover variant,ClNc1nccc(C2=CC=C(Nc3nccc(-c4ccccc4)n3)C2)n1,14.778162,-9.389837
+GB-GA crossover variant,FC1=CC(N2CCOCC2)C(Nc2nccc(-c3ccccc3)n2)=C1,10.622158,-16.518888
+GB-GA crossover variant,CCOc1ccc(Nc2nccc(-c3ccc(C#N)cc3)n2)cc1,24.783005,4.3640814
+GB-GA crossover variant,CC(=O)c1ccc(NC2CCCCC2N)nc1Nc1cccc(Cl)c1,-17.36464,-22.333733
+GB-GA crossover variant,Cc1ncn(C2=C(Nc3nccc(-c4ccc(F)cc4)n3)C=CC2)n1,40.424248,-19.306728
+GB-GA crossover variant,c1ccc(Nc2nccc(-c3ccccc3)n2)cc1,21.253635,-4.1205683
+GB-GA crossover variant,FC1=CC(c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)=CC1,-12.8915,7.797179
+GB-GA crossover variant,Cc1cnc(NC2=CC=C(Nc3nccc(-c4ccc(F)cc4)n3)C2)nc1C,13.361003,-6.8426967
+GB-GA crossover variant,CN(F)CCNc1ccc(Nc2nccc(-c3ccccc3)n2)cc1,23.30016,-5.8347087
+GB-GA crossover variant,CCCc1ccnc(Nc2ccc(-n3cnc(F)n3)cc2)n1,41.238937,-22.422066
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(C4=CC=CCS4)n3)cc2)n1,32.972866,-24.715212
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(C=CF)n3)cc2)n1,40.76271,-25.895046
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3ncc4c(n3)CC(F)CC4)cc2)n1,35.50521,-26.162418
+GB-GA crossover variant,C1=CCN(c2ccc(Nc3nccc(-c4ccccc4)n3)cc2)N=C1,19.440386,-10.674087
+GB-GA crossover variant,CCN(CC)CCNC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c1F,-39.579464,-10.590403
+GB-GA crossover variant,Cc1ncn(-c2ccc(-c3ccnc(Nc4ccc(F)cc4)n3)cc2)n1,38.03993,-20.787603
+GB-GA crossover variant,COC(C)c1onc(C2=CC=CC2)c1-c1ccnc(NC2CCCCC2)n1,9.591255,29.082508
+GB-GA crossover variant,Fc1cc(-c2ccnc(NC3=CC=CC3)n2)cc(N2CCOCC2)c1,-0.004816347,-11.033999
+GB-GA crossover variant,O=C1CN(c2ccccc2-c2ccnc(NC3CCCCC3)n2)CC=N1,9.03269,25.788069
+GB-GA crossover variant,CCc1ccc2c(c1)C(=Cc1[nH]c(C)c(C(=O)NCCN3C=CC=CC3)c1C)C(=O)N2,-43.54984,-8.356437
+GB-GA crossover variant,COc1ccc(Nc2nccc(-c3ccccn3)n2)cc1,28.08229,-8.640699
+GB-GA crossover variant,Fc1cc(-c2ccnc(Nc3ccc(C4=CCOC4)cc3)n2)cc(N2CCOCC2)c1,2.0363815,-12.020194
+GB-GA crossover variant,Cc1cc(C)cc(-c2ccnc(NC3CCCCC3)n2)c1,3.6368532,30.802486
+GB-GA crossover variant,Fc1ccc(Nc2nccc(-c3c[nH]c4ncccc34)n2)cc1,10.881392,-1.9701011
+GB-GA crossover variant,CS(=O)(=O)c1ccc(Nc2nccc(C3=CC=CCC3)n2)cc1,22.50723,-24.796139
+GB-GA crossover variant,C1=CC(Nc2nccc(-c3ccccc3)n2)C(Nc2nccc(C3=CC=NC3)n2)=C1,14.594918,-23.23032
+GB-GA crossover variant,N#Cc1ccc(-c2ccnc(NC3=CCCC3)n2)cc1,26.855442,4.6271653
+GB-GA crossover variant,c1ccc(Nc2nccc(-c3ccccn3)n2)cc1,28.876217,-6.77597
+GB-GA crossover variant,Clc1ccccc1Nc1nccc(-c2ccccc2)n1,17.178186,-7.811791
+GB-GA crossover variant,C1=CC(Nc2nccc(-c3ccc(Nc4ccccc4)cc3)n2)CCO1,10.334914,13.523513
+GB-GA crossover variant,C1=CC(Nc2nccc(-c3ccnc(Nc4ccccc4)n3)n2)CCO1,10.506115,13.350039
+GB-GA crossover variant,CCc1ccnc(Nc2ccc(-n3cnc(C)n3)cc2)n1,39.758747,-23.617025
+GB-GA crossover variant,O=S(=O)(c1ccc(Nc2nccc(C3=CC=CCC3)n2)cc1)N1C=NCCC1,23.224579,-26.802685
+GB-GA crossover variant,c1cc2c(-c3ccnc(NC4CCCCC4)n3)c[nH]c2cn1,7.0670295,22.322784
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(CCF)n3)cc2)n1,39.9847,-22.783289
+GB-GA crossover variant,O=C1C=C(c2ccnc(NC3CCCCC3)n2)c2ccccc21,6.7573013,25.969612
+GB-GA crossover variant,Cc1[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c(C)c1C(=O)NCCC1CCCCC1,-41.71857,-9.247436
+GB-GA crossover variant,O=S(=O)(C1=CCCC1)c1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,15.96451,-5.330949
+GB-GA crossover variant,COc1cc(N2CCOCC2)ccc1Nc1ncc(Cl)c(NN(C)C)n1,-13.471788,-24.237751
+GB-GA crossover variant,Cc1ccccc1-c1ccnc(NC2CCCCC2)n1,6.9127865,27.166111
+GB-GA crossover variant,COc1cc2ncnc(Nc3ccccc3)c2cc1OC,-15.428711,-14.205032
+GB-GA crossover variant,CS(=O)(=O)Nc1ccc(Nc2nccc(-c3ccccc3)n2)cc1,22.39566,-9.75277
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(C4=CC=CCC4)n3)cc2)n1,30.760277,-23.8576
+GB-GA crossover variant,NC(=O)c1ccc(Nc2nccc(-c3ccc(F)cc3)n2)cc1,13.000206,0.9627728
+GB-GA crossover variant,N#Cc1ccc(-c2ccnc(Nc3ccc(NCl)cc3)n2)cc1,24.916653,3.5103374
+GB-GA crossover variant,Fc1ccc(Nc2nccc(C3=CC=CC3)n2)cc1,20.574907,-20.65073
+GB-GA crossover variant,C1=C(Nc2nccc(-c3ccccc3)n2)COC1,16.218245,-11.417868
+GB-GA crossover variant,C1=C(c2ccnc(Nc3ccccc3)n2)CCO1,25.467648,-13.391274
+GB-GA crossover variant,CS(=O)(=O)c1ccc(Nc2nccc(C3=CC=CC3)n2)cc1,20.908304,-23.055046
+GB-GA crossover variant,Fc1ccc(-c2ccnc(NC3CCCCC3)n2)cc1,0.10771684,26.209259
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(C4=CC=CC4)n3)cc2)n1,31.209269,-24.448843
+GB-GA crossover variant,C1=C(c2ccnc(NC3CCCCC3)n2)CCO1,6.8120193,29.125523
+GB-GA crossover variant,Fc1cc(-c2ccc(Nc3nccc(C4=CC=CC4)n3)[nH]2)cc(N2CCOCC2)c1,-1.1125183,-12.180845
+GB-GA crossover variant,CCN(F)c1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,19.524355,-0.08572307
+GB-GA crossover variant,ClC1C=NC=C1c1ccnc(NC2CCCCC2)n1,4.121582,28.575024
+GB-GA crossover variant,Cc1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,23.726528,-3.3115187
+GB-GA crossover variant,CC=Cc1ccc(Nc2nccc(-c3cc(F)cc(N4CCOCC4)c3)n2)cc1,3.7134213,-11.62732
+GB-GA crossover variant,Cc1ncn(C2=C(Nc3nc(Nc4ccc(F)cc4)ncc3C)C=CC2)n1,40.967686,-19.192043
+GB-GA crossover variant,Fc1ncn(-c2ccc(Nc3nccc(C4=NC=CC4C=CCl)n3)cc2)n1,37.27375,-12.798197
+GB-GA crossover variant,O=S(=O)(NC1=CC=C(Nc2nccc(-c3ccc(F)cc3)n2)C1)c1ccccc1,13.820344,-7.3555336
+GB-GA crossover variant,CC=Cc1ccc(Nc2nccc(C3=CC(F)=NCC3)n2)cc1,21.532455,-18.179771
+GB-GA crossover variant,c1cncc(-c2noc(CN3CCCCC3)c2-c2ccnc(NC3CCCCC3)n2)c1,-18.53808,26.636572
+GB-GA crossover variant,CC(=O)c1ccccc1Nc1nc(Nc2ccc(F)cc2)ncc1Cl,-8.714007,-28.440825
+GB-GA crossover variant,Fc1cc(-c2ccnc(Nc3ccccc3)n2)ccn1,26.872826,-2.4709148
+GB-GA crossover variant,COS(=O)(=O)c1ccc(Nc2nccc(C3=CC=CC3)n2)cc1,20.7617,-24.345161
+GB-GA crossover variant,C1=C(Nc2nccc(-c3ccccc3)n2)CCOC1,16.226236,-11.327967
+GB-GA crossover variant,FC1CCc2ccc(-c3ccnc(NC4CCCCC4)n3)cc2C1,1.0477514,27.111141
+GB-GA crossover variant,C1=NOC(CN2CCCCC2)=C(c2ccnc(NC3CCCCC3)n2)C1,11.0814705,33.25696
+GB-GA crossover variant,FC1=CC=C(Nc2nccc(-c3ccccc3)n2)C1,14.488066,-8.443899
+GB-GA crossover variant,CCN(CC)Cc1ccc(-c2ccnc(NC3CCCCC3)n2)cc1,2.3134472,29.739723
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(C4=CCC(C)S4)n3)cc2)n1,34.58454,-23.696604
+GB-GA crossover variant,CCc1ccc(-c2ccnc(Nc3ccc(C(N)=O)cc3)n2)cc1,13.125111,1.6618019
+GB-GA crossover variant,O=S(=O)(Cl)c1ccc(Nc2nccc(C3=CCOCC3)n2)cc1,25.337162,-18.41369
+GB-GA crossover variant,C1=NCCC(Nc2ccc(Nc3nccc(-c4ccccc4)n3)cc2)=C1,19.483358,-7.392063
+GB-GA crossover variant,CC=CC1=CNC(Nc2nccc(-c3cc(F)cc(N4CCOCC4)c3)n2)C=C1,0.61368525,-6.8734508
+GB-GA crossover variant,c1ccc(-c2ccnc(Nc3ccc(NN4CCOCC4)cc3)n2)cc1,10.8058605,-11.66926
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(C4=CCOCC4)n3)cc2)n1,32.695732,-22.183718
+GB-GA crossover variant,O=S(=O)(Cl)c1ccc(Nc2nccc(C3=CC=CCC3)n2)cc1,22.630547,-25.555712
+GB-GA crossover variant,C1=CCC(c2ccc(Nc3nccc(-c4ccccn4)n3)cc2)=C1,18.167572,-19.457088
+GB-GA crossover variant,FC1C=CN=C1c1ccnc(Nc2ccccc2)n1,34.681053,-7.499313
+GB-GA crossover variant,C1=C(Nc2nccc(-c3ccccc3)n2)CC(c2ccccc2)=C1,14.781723,-9.171645
+GB-GA crossover variant,COc1cc2ncnc(Nc3ccc(ON4CC=CCC4)cc3)c2cc1OC,-17.1437,-13.944548
+GB-GA crossover variant,Clc1ncn(-c2ccc(Nc3nccc(C4=CC=CC4)n3)cc2)n1,30.702587,-25.180893
+GB-GA crossover variant,O=S(=O)(c1ccc(Nc2nccc(C3=CCCC3)n2)cc1)N1CCOCC1,24.962326,-20.390253
+GB-GA crossover variant,C1=C(c2noc(CN3CCCCC3)c2-c2ccnc(NC3CCCCC3)n2)CCOC1,-19.491302,26.662909
+GB-GA crossover variant,Cc1ccc2c(c1)C(=Cc1[nH]c(C)c(C(=O)NCC3CCCCC3)c1C)C(=O)N2,-42.949757,-10.892848
+GB-GA crossover variant,Clc1cnc(Nc2cccnc2)nc1-c1ccnc(NC2CCCCC2)n1,3.4922369,23.256054
+GB-GA crossover variant,ClC1C=CN=C1c1ccnc(Nc2ccccc2)n1,34.679043,-7.9278264
+GB-GA crossover variant,Fc1cc(-c2ccnc(NC3=NC=CC3)n2)cc(N2CCOCC2)c1,3.009325,-9.481511
+GB-GA crossover variant,CC=Cc1ccc(Nc2nccc(-c3cccc(N4CCOCC4)c3)n2)cc1,4.463871,-11.560834
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(C4=CCOC4)n3)cc2)n1,32.859257,-22.352753
+GB-GA crossover variant,c1ccc(-c2ccnc(Nc3ccccc3N3CCOCC3)n2)cc1,9.523456,-11.597309
+GB-GA crossover variant,COc1cccc(-c2ccnc(Nc3ccc(F)cc3)n2)c1N,11.384049,-3.1516578
+GB-GA crossover variant,CC1=CC=C(c2ccnc(NC3CCCCC3)n2)C1,7.7341623,30.5775
+GB-GA crossover variant,Cc1ccc(N=C2CC(=O)c3sc(C)nc3C2=O)cc1,-21.322989,9.347126
+GB-GA crossover variant,Fc1ccc(Nc2ncc(Cl)c(NC3=CCOCC3)n2)cc1,-6.6557417,-29.778095
+GB-GA crossover variant,CCc1ncn(-c2ccc(Nc3nccc(C4=CC=CCC4)n3)cc2)n1,29.545109,-24.029985
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(N4CCOCC4)n3)cc2)n1,38.06364,-27.94186
+GB-GA crossover variant,Fc1ncn(-c2ccc(Nc3nccc(C4=NC=CC4C4=CC=CC4)n3)cc2)n1,38.541058,-14.965026
+GB-GA crossover variant,Cc1ncn(-c2ccc(Nc3nccc(C=CC4=CCC=C4)n3)cc2)n1,41.510403,-26.595562
+GB-GA crossover variant,Clc1ccc(NC2=NCC(c3ccnc(Nc4ccccc4)n3)=N2)cc1,22.893698,-7.1742764
+GB-GA crossover variant,Cc1ccnc(Nc2ccc(-n3cnc(C)n3)cc2)n1,38.069107,-24.045967
+PT-MOGA,CNc1ccc(-c2ccnc(NC3CCC3)n2)cc1,-0.3310162,30.960472
+PT-MOGA,Nc1ccc(Nc2nccc(-c3ccccc3)n2)cc1,20.038788,-5.41881
+PT-MOGA,Clc1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,22.00742,-5.220222
+PT-MOGA,Fc1c(-c2ccnc(NC3CC3)n2)cnn1C1CCC1,-14.065749,48.55683
+PT-MOGA,C=Cc1cc(-c2ccnc(NC3CC3)n2)ccc1C(=O)N1CCC1,-1.2430927,34.27582
+PT-MOGA,c1ccc(-c2ccnc(Nc3ccc(N4CCCNCC4)cc3)n2)cc1,8.784596,-6.5597315
+PT-MOGA,Cc1ncn(-c2ccc(Nc3nccc(-c4cccc(F)c4)n3)cc2)n1,37.832397,-18.736212
+PT-MOGA,CN1CCCN(c2cc(=O)c3cccc(-c4ccccc4)c3o2)CC1,-25.492046,-2.7634313
+PT-MOGA,O=S(=O)(c1cccc2cnccc12)N1CC=CCCCNCC1,-12.010866,-2.2193272
+PT-MOGA,C#Cc1ccc(-c2ccnc(NC3CC3)n2)cc1,-5.419218,33.9367
+PT-MOGA,Cc1ncn(-c2ccc(Nc3nccc(C4CC4)n3)cc2)n1,36.218468,-24.64237
+PT-MOGA,NC1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-32.39616,30.866331
+PT-MOGA,CN1CCC(Nc2nccc(-c3cn[nH]c3-c3ccccc3)n2)CC1,-13.085146,23.494762
+PT-MOGA,CN1CCC(Nc2nccc(-c3cn(C)nc3-c3ccccc3)n2)CC1,-14.360876,24.626242
+PT-MOGA,COc1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,22.32624,-2.6159694
+PT-MOGA,O=C(Nc1ccc(Cl)cc1)c1ccccc1NCc1ccncc1,-22.360483,-20.932743
+PT-MOGA,C=Cc1c(-c2ccnc(NC3CC3)n2)cnn1C1CCCC1,-14.783214,47.801716
+PT-MOGA,CN1CCC(Nc2nccc(-c3c[nH]c(-c4ccc(F)cc4)n3)n2)CC1,-3.7480285,23.374159
+PT-MOGA,CN1CCC(Nc2nccc(-c3ccc(NC4CC4)cc3)n2)CC1,-9.651552,24.379622
+PT-MOGA,C=C1C=CC(c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)=C1,-11.724951,8.721252
+PT-MOGA,O=C1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-30.82538,29.823183
+PT-MOGA,Fc1ccc(-c2nc(C3=NC=NC3)[nH]c2-c2ccncc2)cc1,-10.434686,7.1676297
+PT-MOGA,Fc1ccc(-c2ccnc(Nc3ccsc3)n2)cc1,13.070011,-2.3419516
+PT-MOGA,CC1CCC(Nc2nccc(-c3ccccc3)n2)CCN1,-3.4855077,28.171398
+PT-MOGA,N#Cc1ccccc1Nc1nc(Nc2ccc(F)cc2)ncc1Cl,-8.3270645,-29.628744
+PT-MOGA,Cc1c(-c2ccnc(NC3CC3)n2)cnn1C1=CC=C1,-11.458866,53.12096
+PT-MOGA,FC1CC1n1ncc(-c2ccnc(NC3CCOCC3)n2)c1Cl,-8.899093,46.956802
+PT-MOGA,FC1CC1n1ncc(-c2ccnc(NC3CC3)n2)c1Cl,-9.253734,47.399
+PT-MOGA,FCCN1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-33.254917,28.627657
+PT-MOGA,Brc1ccc(Nc2nccc(-c3ccncc3)n2)cc1,19.105976,-4.023775
+PT-MOGA,CN1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-32.378822,29.110706
+PT-MOGA,CCN1CCC(Nc2nccc(-c3cnc4ccccc4c3)n2)CC1,-12.25325,26.59105
+PT-MOGA,OC1CCC(Nc2cc(Cl)nc(-c3c[nH]c4ncccc34)n2)CC1,-19.909698,36.003956
+PT-MOGA,C1=CC(n2cc(-c3ccnc(Nc4ccccc4)n3)cn2)=C1,27.522135,1.7555175
+PT-MOGA,Fc1ccc(-c2nc(C3=CCNCC=C3)[nH]c2-c2ccncc2)cc1,-12.644542,9.727584
+PT-MOGA,Nc1ccc(-c2ccnc(NC3CC3)n2)cc1,-4.2865996,32.238224
+PT-MOGA,Fc1nccc(-c2ccc(-c3ccnc(NC4CC4)n3)cc2)n1,-2.7223904,29.659023
+PT-MOGA,CN(C)c1ccc(Nc2nccc(-c3cccnc3)n2)cc1,19.677147,6.42128
+PT-MOGA,c1ccc(-c2ccnc(NC3CCC3)n2)cc1,-0.40635926,29.394875
+PT-MOGA,O=C1C=CC(c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)=CCN1,-13.119926,9.062133
+PT-MOGA,Clc1c(-c2ccnc(NC3CC3)n2)cnn1C1=CC=C1,-11.416719,52.96398
+PT-MOGA,CCNC1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-33.898987,31.2412
+PT-MOGA,CS(=O)(=O)c1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,16.75397,-4.284768
+PT-MOGA,CC(C)N1CCC(Nc2nccc(-c3ccncc3)n2)CC1,-9.101448,28.867756
+PT-MOGA,c1ccc(-c2ccnc(NC3CCNCC3)n2)cc1,-5.060294,28.358528
+PT-MOGA,Clc1ccc(-c2ccnc(NC3CC3)n2)cn1,-3.3872726,37.447777
+PT-MOGA,Oc1ccc(-c2ccnc(NC3CC3)n2)cc1,-2.2181513,31.88217
+PT-MOGA,CC1CCC(Nc2nccc(-c3cnn(C)c3)n2)CC1,-11.170961,38.007942
+PT-MOGA,Cc1ncn(-c2ccc(Nc3nccc(-c4ccc(F)cc4)n3)cc2)n1,38.213867,-20.559633
+PT-MOGA,C=CN1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-31.52838,28.966816
+PT-MOGA,CN(C)c1ccc(-c2ccnc(NC3CCCC3)n2)cn1,4.852311,33.171505
+PT-MOGA,Cc1ccc(-c2ccnc(NC3CCOCC3)n2)cn1,2.248777,37.33095
+PT-MOGA,FC=Cn1ncc(-c2ccnc(NC3CC3)n2)c1Br,-8.791172,51.610867
+PT-MOGA,Cn1ccc(Nc2nccc(-c3ccccc3)n2)c1,18.32116,-6.095863
+PT-MOGA,Fc1ccc(-c2ccnc(NC3CCNCC3)n2)cc1,-4.426501,26.048231
+PT-MOGA,COC(=O)c1ccccc1Nc1nc(Nc2ccc(F)cc2)ncc1Cl,-8.970806,-28.568434
+PT-MOGA,Clc1c(-c2ccnc(NC3CCOCC3)n2)cnn1C1CC1,-10.842316,46.40929
+PT-MOGA,COC1CCC(Nc2nccc(-c3ccccc3)n2)CC1,-1.710737,28.28427
+PT-MOGA,FCCn1ncc(-c2ccnc(NC3CC3)n2)c1Br,-9.878761,51.226173
+PT-MOGA,COC1CCC(Nc2nccc(-c3ccc(F)cc3)n2)CC1,-1.7561427,27.181877
+PT-MOGA,C=Cn1ncc(-c2ccnc(NC3CC3)n2)c1Cl,-7.4743276,50.463795
+PT-MOGA,C1=Cc2ccc3c(-c4ccnc(NC5CC5)n4)cnn3c2C1,-15.2695,53.41103
+PT-MOGA,c1cncc(-c2ccnc(Nc3ccc(N4CCCNCC4)cc3)n2)c1,8.359497,-5.8893914
+PT-MOGA,[O-]c1ccc(Nc2nccc(-c3ccccc3)n2)cc1,20.294542,-6.2974496
+PT-MOGA,Nn1cc(-c2ccnc(NC3CC3)n2)c(Cl)c1C1CC1,-9.2178955,44.344093
+PT-MOGA,c1ccc2nc(-c3ccnc(NC4CC4)n3)cnc2c1,-8.582192,39.467934
+PT-MOGA,OCc1ccc(-c2ccnc(NC3CCC(F)CC3)n2)cc1,-3.1087692,30.712395
+PT-MOGA,Fc1ccc(-c2ccnc(NC3CCN(C4CCNCC4)CC3)n2)cc1,-6.05027,24.636135
+PT-MOGA,Cc1nncn1-c1ccc(Nc2nccc(-c3ccccc3)n2)cc1,31.98601,-13.954997
+PT-MOGA,O=C1NC(=O)C(c2cn(C3C=CC=C3)c3ccccc23)=C1c1ccnc(NC2CC2)n1,-16.018452,38.71089
+PT-MOGA,CC(=O)Nc1ccc(-c2ccnc(NC3CC3)n2)cc1,-5.3219376,20.396778
+PT-MOGA,C=C1CC(n2ncc(-c3ccnc(NC4CC4)n3)c2Br)CCN1,-11.837662,50.698368
+PT-MOGA,Cc1cnn(-c2ccc(-c3ccnc(NC4CCC4)n3)cc2)c1,0.5321738,32.14237
+PT-MOGA,CC(C)(C)c1cnc(CSc2cnc(NC(=O)C3CCNCC3)s2)o1,-3.4113114,14.901841
+PT-MOGA,CN(C)C(=O)CN1CCC(Nc2nccc(-c3ccc4ccccc4c3)n2)CC1,-14.938776,21.41763
+PT-MOGA,O=C1CC(c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)=CCN1,-13.762888,6.939998
+PT-MOGA,CCN1CCCC(Nc2nccc(-c3cnc4ccccn34)n2)C1,-35.080494,28.067892
+PT-MOGA,Nc1cccc(-c2ccnc(NC3CC3)n2)c1,-5.8755593,31.939426
+PT-MOGA,Clc1ccc(Nc2nccc(-c3ccccc3)n2)cc1,21.612255,-6.188048
+PT-MOGA,CCCOc1c(-c2ccnc(NC3CC3)n2)cnn1C1CC1,-14.754317,45.41413
+PT-MOGA,CN1C(c2ccnc(Nc3ccccc3)n2)=CN=C2C=CC=CN21,29.55535,-1.7733994
+PT-MOGA,CNC1CCC(Nc2nccc(-c3cnn(C4CC4)c3F)n2)CC1,-13.657897,48.29338
+PT-MOGA,CNC1CCC(Nc2nccc(-c3cnn(C4CC4)c3Br)n2)CC1,-12.782751,48.09033
+PT-MOGA,C[N+](C)(C)C1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-32.94661,31.645159
+PT-MOGA,FCCCn1ncc(-c2ccnc(NC3CC3)n2)c1Cl,-9.78728,50.093582
+PT-MOGA,CCCN1CCC(Nc2nccc(-c3ccc(C#N)cc3)n2)CC1,-13.165973,28.595036
+PT-MOGA,CCNC(=O)N1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-30.132664,25.924019
+PT-MOGA,c1ccc(Nc2nccc(-c3ccncn3)n2)cc1,30.622915,-5.9851537
+PT-MOGA,Fc1c(-c2ccnc(NC3CC3)n2)cnn2c(C3CC3)ncc12,-14.8217325,50.179855
+PT-MOGA,C=Cc1cnn(C)c1-c1ccnc(Nc2ccc(N3CCN(C)CC3)cc2)n1,6.8450675,-21.930393
+PT-MOGA,O=c1ccc(-c2ccnc(Nc3ccccc3)n2)c[nH]1,23.625097,0.2808424
+PT-MOGA,c1ccc(Nc2nccc(-c3cn[nH]c3)n2)cc1,24.538065,-0.022953594
+PT-MOGA,Fc1cccc(-c2ccnc(NC3CCNCC3)n2)c1,-5.968786,27.271635
+PT-MOGA,Oc1ccc(Nc2nccc(-c3cccnc3)n2)cc1,20.12537,5.0324435
+PT-MOGA,O=C1CC(c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)=N1,-12.282999,6.8284354
+PT-MOGA,Clc1c(-c2ccnc(NC3CC3)n2)cnn1C1CC1,-11.305846,46.6687
+PT-MOGA,Fc1ccc(-c2c[nH]c(-c3ccnc(NC4CC4)n3)n2)cc1,-3.286757,24.201773
+PT-MOGA,c1cc(-c2ccnc(Nc3ccc(N4CCOCC4)cc3)n2)ccn1,6.7824926,-12.866061
+PT-MOGA,OC(c1ccc(-c2ccnc(NC3CC3)n2)cc1)N1CCCC1,-2.0729973,33.028717
+PT-MOGA,CNC(=O)Nc1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,16.895258,1.2347064
+PT-MOGA,CCN(C)C(=O)N1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-31.603384,25.794998
+PT-MOGA,Oc1ccc(-c2ccnc(NC3CCC3)n2)cc1,-1.7950629,31.699371
+PT-MOGA,CNc1ccc(-c2ccnc(NC3CCN(C4CC4)CC3)n2)cc1,-9.108024,25.907345
+PT-MOGA,Brc1c[nH]nc1-c1ccnc(Nc2ccc(N3CCOCC3)cc2)n1,5.8075557,-13.197435
+PT-MOGA,OC1CCC(Nc2nccc(-c3cccc(Cl)c3)n2)CC1,-8.837227,34.773598
+PT-MOGA,Brc1cc(-c2ccnc(NC3CC3)n2)co1,-4.916083,38.029053
+PT-MOGA,CCN(C)CCCN1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-33.77583,26.289223
+PT-MOGA,CNc1cc(-c2ccnc(Nc3ccccc3)n2)ccn1,26.378641,-1.1552796
+PT-MOGA,c1ccn2c(-c3ccnc(NC4CCNCC4)n3)cnc2c1,-30.456831,31.185724
+PT-MOGA,Cn1cc(Nc2nccc(-c3ccsc3)n2)cn1,-15.922567,31.13876
+PT-MOGA,CCCn1ncc(-c2ccnc(NC3CC3)n2)c1Cl,-9.806195,49.844707
+PT-MOGA,CCN1CCC(Nc2nccc(-c3cn(C)nc3-c3ccccc3)n2)CC1,-14.506533,24.818365
+PT-MOGA,CC#CCNC(=O)Nc1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,16.141226,1.2607278
+PT-MOGA,Cc1ccc(-c2ccnc(NC3CCCCN(C)CC3)n2)cn1,1.7996832,33.92877
+PT-MOGA,c1cnn2ncc(-c3ccnc(NC4CC4)n3)c2c1,-14.401249,52.01457
+PT-MOGA,CN1CCC(Nc2nccc(-c3ccccc3)n2)CCC1=O,-11.473906,29.271368
+PT-MOGA,Cc1ccc(-c2ccnc(NC3CCCC3)n2)cn1,2.3905833,33.251472
+PT-MOGA,COc1ccc(-c2ccnc(NC3CCOCC3)n2)cc1,0.59852767,39.60883
+PT-MOGA,C=C1C=CC(n2ncc(-c3ccnc(NC4CC4)n3)c2Br)=C1,-8.959538,53.993565
+PT-MOGA,c1ccc(Nc2nccc(-c3ccc(N4CCNCC4)cc3)n2)cc1,9.293973,-7.557876
+PT-MOGA,Cc1ccc(-c2ccnc(NC3CCCOCC3)n2)cn1,2.47702,37.401306
+PT-MOGA,Oc1c(-c2ccnc(NC3CC3)n2)cnn1C1CC1,-12.898156,46.715393
+PT-MOGA,Brc1c(-c2ccnc(NC3CC3)n2)cnn1C1=CCC=C1,-9.665369,54.208633
+PT-MOGA,c1ccc(Nc2nccc(-c3cccnc3)n2)cc1,20.959402,5.1053658
+PT-MOGA,Fc1c(-c2ccnc(NC3CC3)n2)cnn1C1C=CC=C1,-12.696741,49.409534
+PT-MOGA,c1ccc(-c2ccnc(NC3CCN(C4CCNCC4)CC3)n2)cc1,-7.0077243,25.306696
+PT-MOGA,CCCN1CCC(Nc2nccc(-c3ccsc3)n2)CC1,-13.6761875,29.931324
+PT-MOGA,N#Cc1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,24.446888,2.7652018
+PT-MOGA,O=S(=O)(c1cccc2cnccc12)N1CCCCCCNCC1,-11.537776,-1.8920901
+PT-MOGA,NC1C=CC(c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)=C1,-10.96834,9.811478
+PT-MOGA,C#Cc1ccc(-c2ccnc(NC3CCCC3)n2)cn1,3.4949708,34.098225
+PT-MOGA,CNc1ccc(Nc2nccc(-c3cccnc3)n2)cc1,19.900373,5.7931986
+PT-MOGA,CC(N)Cc1ccc(-c2ccnc(NC3CC3)n2)cc1,-7.9040504,29.969938
+PT-MOGA,OC1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-31.831034,31.232834
+PT-MOGA,Cc1ccc(-c2ccnc(NC3CCNC(C)CC3)n2)cn1,0.8581233,35.683918
+PT-MOGA,Cc1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,23.726538,-3.311189
+PT-MOGA,CC=Cc1ccc2c(-c3ccnc(NC4CC4)n3)cnn2c1,-17.323662,52.298016
+PT-MOGA,C#Cc1ccc(-c2ccnc(NC3CCC(N)CC3)n2)cc1,-5.602371,33.98566
+PT-MOGA,Fc1ccc(-c2ccnc(NC3CCC(N4CCNCC4)CC3)n2)cc1,-5.5826178,24.186647
+PT-MOGA,CC(C)N1CCC(Nc2nccc(-c3ccc(CN)cc3)n2)CC1,-8.824896,29.221481
+PT-MOGA,CCNC1CCC(Nc2nccc(-c3cccnc3)n2)CC1,-10.362935,21.724808
+PT-MOGA,COC(=O)N1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-30.637201,27.827877
+PT-MOGA,Fc1ccc(Nc2nccc(-c3nc(NC4CC4)ncc3F)n2)cc1,0.90980536,21.37745
+PT-MOGA,CC1CCC(Nc2nccc(-c3ccc(S)nc3)n2)CCN1,0.44359648,35.519447
+PT-MOGA,Nc1ccccc1Nc1nc(Nc2ccccc2)ncc1Cl,-9.992915,-29.36262
+PT-MOGA,Brc1cn[nH]c1-c1ccnc(NC2CC2)n1,-5.5043316,41.460495
+PT-MOGA,Cn1cnc(-c2ccc(-c3ccnc(NC4CCC4)n3)cc2)n1,6.25259,35.84432
+PT-MOGA,Oc1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,21.205711,0.37774643
+PT-MOGA,CCCc1cccc2ncc(-c3ccnc(NC4CC4)n3)n12,-34.605076,32.48363
+PT-MOGA,CC1CC1n1ncc(-c2ccnc(NC3CC3)n2)c1Cl,-10.191362,47.648712
+PT-MOGA,NC1CCC(Nc2nccc(-c3ccc(Cl)cc3)n2)CC1,-6.9054255,34.917065
+PT-MOGA,Cn1ncnc1-c1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,24.236597,-2.2195683
+PT-MOGA,CCN1CCCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-34.430016,28.503304
+PT-MOGA,O=c1[nH]c(-c2ccc(F)cc2)c(-c2ccnc(NC3CC3)n2)[nH]1,-1.795104,24.865171
+PT-MOGA,CN(C)c1ccc(-c2ccnc(NC3CC3)n2)cc1,-3.6105993,34.108566
+PT-MOGA,CCCN1CC=C(Nc2nccc(-c3cccnc3)n2)CC1,19.941505,8.591019
+PT-MOGA,O=C1NC(=O)C(c2cn(C3=CC=C3)c3ccccc23)=C1c1ccnc(NC2CC2)n1,-16.019249,38.711967
+PT-MOGA,COc1cc2ncnc(Nc3ccc(NC(=O)N4CC4)cc3)c2cc1OC,-16.734411,-15.335893
+PT-MOGA,Nc1ccc(-c2ccnc(Nc3ccc(Br)cc3)n2)cc1,18.801912,-4.515186
+PT-MOGA,OC1CCC(Nc2nccc(-c3ccccc3)n2)CC1,-8.940134,33.99822
+PT-MOGA,CCN1CCC(Nc2nccc(-c3c[nH]c4cc(F)ccc34)n2)CC1,-12.031291,25.484623
+PT-MOGA,CNC(=O)N(C)c1ccc(-c2ccnc(NC3CC3)n2)cc1,-3.4172056,34.542374
+PT-MOGA,CS(=O)c1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,22.839617,-1.6668513
+PT-MOGA,Sc1ccc(Nc2nccc(-c3cccnc3)n2)cc1,20.56176,5.803448
+PT-MOGA,CC1CCC(Nc2nccc(-c3ccc(F)cc3)n2)CCN1,-3.3047023,27.134027
+PT-MOGA,OC1C=CC(c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)=C1,-10.106667,9.322418
+PT-MOGA,CCC(O)c1c(-c2ccnc(NC3CC3)n2)cnn1C1CC1,-15.462511,46.39573
+PT-MOGA,CNC(=O)c1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,17.99426,1.4148906
+PT-MOGA,Brc1ccc(-c2ccnc(NC3CCOCC3)n2)cc1,-1.1077042,39.5119
+PT-MOGA,C#Cc1ccc(Nc2nccc(-c3ccc(O)cc3)n2)cc1,21.27722,1.7680905
+PT-MOGA,OC1CCC(Nc2nccc(-c3n[nH]cc3-c3ccccc3)n2)CC1,-12.797942,34.244637
+PT-MOGA,CCN1CCC(Nc2nccc(-c3ccc(NC)cc3)n2)CC1,-10.166402,26.203762
+PT-MOGA,COc1ccc(-c2cn(C)c(-c3ccnc(NC4CC4)n3)n2)cc1,1.3289876,39.93544
+PT-MOGA,Fc1ccc(Nc2nccc(NC3CCOCC3)n2)cc1,1.4924762,19.642452
+PT-MOGA,Cc1ccc(-c2ccnc(NC3CCOC(C)CC3)n2)cn1,2.7183456,36.369644
+PT-MOGA,CCOC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccccc32)c1C,-37.849644,-7.464495
+PT-MOGA,COC1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-33.35855,30.339117
+PT-MOGA,c1ccn2c(-c3ccnc(NC4CCCCC4)n3)cnc2c1,-31.390537,30.399292
+PT-MOGA,O=C(Nc1ccc(-c2ccnc(Nc3ccccc3)n2)cc1)N1CC1,16.433117,-0.23800099
+PT-MOGA,Clc1ccc(-c2ccnc(NC3CCN(C4CCNCC4)CC3)n2)cc1,-7.042528,24.73191
+PT-MOGA,O=c1cc(N2CCCNCC2)oc2c(-c3ccccc3)cccc12,-26.596344,-2.4781716
+PT-MOGA,C#Cc1ccccc1Nc1nc(Nc2cnn(C)c2)ncc1Cl,-7.3001685,-26.76422
+PT-MOGA,Brc1cnn2ncc(-c3ccnc(NC4CC4)n3)c2c1,-13.642579,52.512466
+PT-MOGA,OCc1ccc(Nc2nccc(-c3ccccc3)n2)cc1,18.076796,-2.1805725
+PT-MOGA,c1ccc(Nc2nccc(-c3cnn4ncccc34)n2)cc1,6.134653,-27.253056
+PT-MOGA,O=C1C=CC(n2ncc(-c3ccnc(NC4CC4)n3)c2Br)=C1,-9.01865,53.983505
+PT-MOGA,Oc1ccc(-c2cnc3c(-c4ccsc4)cnn3c2)cc1,-22.90548,50.536434
+PT-MOGA,CC#CCN1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-33.258987,27.394653
+PT-MOGA,Brc1ccc(Nc2nccc(-c3ccccc3)n2)cc1,19.654917,-4.58445
+PT-MOGA,Sc1ccc2c(-c3ccnc(NC4CC4)n3)cnn2c1,-16.620207,52.389645
+PT-MOGA,Cc1ccc(-c2ccnc(Nc3ccccc3)n2)nc1,27.363516,-5.3969398
+PT-MOGA,CCOc1c(-c2ccnc(NC3CC3)n2)cnn1C1CC1,-14.7111635,45.51741
+PT-MOGA,c1ccc(Nc2nccc(-c3cc4ccccn4n3)n2)cc1,30.262903,-4.2341666
+PT-MOGA,Clc1nc(-c2ccnc(NC3CC3)n2)cn1C1CC1,-10.921347,43.703476
+PT-MOGA,c1ccc(Nc2nccc(-c3ccc(N4CCC4)cc3)n2)cc1,10.362233,-7.8368397
+PT-MOGA,c1ccc(Nc2nccc(-c3ccc(N4CCCNCC4)cc3)n2)cc1,9.317399,-6.9658694
+PT-MOGA,Fc1[nH]cc(-c2ccnc(NC3CC3)n2)c1Cl,-8.486224,43.10586
+PT-MOGA,Cc1ccc(-c2ccnc(NC3CCN(C(C)C)CC3)n2)cn1,-9.635519,28.233023
+PT-MOGA,O=CNCc1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,19.738861,-1.8844633
+PT-MOGA,c1cc(-c2ccsc2)nc(NC2CC2)n1,-13.866612,30.775475
+PT-MOGA,CB(O)c1ccc(Nc2nccc(-c3ccc(C)cc3)n2)cc1,25.147497,-3.9593399
+PT-MOGA,FC1CC1n1ncc(Br)c1-c1ccnc(NC2CC2)n1,-6.44236,48.258774
+PT-MOGA,CN1CCC(Nc2nccc(-c3ccc4cnccc4c3)n2)CC1,-10.445535,23.36372
+PT-MOGA,Cn1cc(Nc2nccc(-c3cnc4ccccn34)n2)cn1,-35.50888,30.426395
+PT-MOGA,C=Cc1c(-c2ccnc(Nc3ccc(N4CCN(C)CC4)cc3)n2)cnn1C,6.845701,-22.089449
+PT-MOGA,Cn1cnc(-c2ccc(Nc3nccc(-c4cccnc4)n3)cc2)n1,17.665123,5.4181395
+PT-MOGA,O=CNc1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,20.462692,-1.9152544
+PT-MOGA,Brc1[nH]ccc1-c1ccnc(NC2CC2)n1,-6.5375385,42.657608
+PT-MOGA,O=C1C=CC(c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)=CC1,-13.852009,8.415515
+PT-MOGA,Cc1ccc(-c2ccnc(NC3CCCCC3)n2)cn1,2.4185636,33.080368
+PT-MOGA,Cc1ccc2c(-c3ccnc(NC4CC4)n3)cnn2c1,-16.725332,52.339615
+PT-MOGA,CC#Cc1c(-c2ccnc(NC3CC3)n2)cnn1C1CC1,-13.746581,46.581696
+PT-MOGA,c1ccc(Nc2nccc(-c3ccc(N4CCCCNCC4)cc3)n2)cc1,9.659266,-6.936987
+PT-MOGA,O=C1C=CC(c2nc(-c3ccncc3)c(-c3ccc(F)cc3)[nH]2)=C1,-12.103089,8.085739
+PT-MOGA,Brc1ccc(-c2ccnc(NC3CC3)n2)cn1,-3.0563276,38.33152
+PT-MOGA,CC1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CCN1,-31.010954,32.200764
+PT-MOGA,Fc1ccc(-c2nc(C3=NCC=NC3)[nH]c2-c2ccncc2)cc1,-9.948269,7.178272
+PT-MOGA,Cn1cc(Nc2ncc(Cl)c(Nc3ccc(Br)cc3)n2)cn1,-6.7097063,-27.167278
+PT-MOGA,NC1CC=C(c2ccnc(Nc3ccccc3)n2)CC1,27.520065,-14.961659
+PT-MOGA,CN1CCC(Nc2nccc(-c3cccnc3)n2)CC1,-10.391978,22.552078
+PT-MOGA,CC(C)n1ncc(-c2ccnc(NC3CC3)n2)c1F,-16.507614,48.89361
+PT-MOGA,NC1CCC(Nc2nccc(-c3ccc(Br)cc3)n2)CC1,-5.499576,35.935093
+PT-MOGA,CC1(n2ncc(-c3ccnc(NC4CC4)n3)c2Cl)CC1F,-9.458782,48.581074
+PT-MOGA,COC(=O)Nc1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,16.95472,0.46632713
+PT-MOGA,CCCN1CCC(Nc2nccc(-c3ccccc3)n2)CC1,-12.995813,28.825937
+PT-MOGA,Cn1cnc(-c2ccc(-c3ccnc(NC4CCCC4)n3)cc2)n1,6.2544503,35.823105
+PT-MOGA,CC1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CCN1C=O,-29.70044,29.190016
+PT-MOGA,CCC=Cc1ccc(-c2ccnc(NC3CC3)n2)cn1,-1.8962934,36.69899
+PT-MOGA,O=COc1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,21.374378,-1.6427993
+PT-MOGA,Fc1ccc(-c2ccnc(NC3CCN(CC4CCNCC4)CC3)n2)cc1,-4.928031,25.110207
+PT-MOGA,C=Cc1ccc(-c2ccnc(NC3CC3)n2)cn1,-2.0970848,36.768562
+PT-MOGA,O=C(c1ccc(-c2ccnc(NC3CC3)n2)cc1)N1CCCCC1,-1.3913629,33.84866
+PT-MOGA,c1ccc(-c2ccnc(NC3CCCCNCC3)n2)cc1,-4.7430058,28.539486
+PT-MOGA,Nc1ccc(-c2ccnc(NC3CCC3)n2)cc1,-3.9497921,32.123
+PT-MOGA,Clc1nc(NC2CC2)ncc1-c1ccnc(NC2CC2)n1,-8.502363,43.50021
+PT-MOGA,Cn1ncc(-c2ccnc(NC3CC3)n2)c1-c1ccccc1,-13.667058,42.403286
+PT-MOGA,Cn1cc(-c2nc(-c3ccc(F)cc3)[nH]c2-c2ccncc2)cn1,-10.280216,5.527997
+PT-MOGA,OC1C=CC(c2nc(-c3ccncc3)c(-c3ccc(F)cc3)[nH]2)=C1,-10.106667,9.322418
+PT-MOGA,C=Cn1ncc(-c2ccnc(NC3CC3)n2)c1C,-7.271593,50.660652
+PT-MOGA,Fc1ccc(-c2ccnc(Nc3ccc(N4CCOCC4)cc3)n2)cc1,6.970892,-13.328228
+PT-MOGA,CC1CCC(Nc2nccc(-c3ccc(N4CCC(F)C4)nc3)n2)CCN1,0.38620022,36.45796
+PT-MOGA,c1ccc(-c2ccnc(NC3CCCC3)n2)cc1,0.18826371,29.086939
+PT-MOGA,O=CNC1CCC(Nc2nccc(-c3ccccc3)n2)CC1,-4.885176,30.395683
+PT-MOGA,Fc1ccc(-c2ccnc(NC3CC3)n2)cc1,-2.117499,26.120975
+PT-MOGA,C#CCN1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-32.865685,27.823574
+PT-MOGA,CNC(=O)N(C)c1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,18.652966,1.9753057
+PT-MOGA,Fc1cc(-c2ccnc(Nc3ccccc3)n2)cnn1,27.354496,-2.725168
+PT-MOGA,C#CC(C)(C)n1nc(-c2ccc(Cl)cc2)c2c(N)ncnc21,-0.93554467,-36.75136
+PT-MOGA,CN(C)c1ccc(-c2ccnc(NC3CCCCC3)n2)cn1,4.8776245,33.123585
+PT-MOGA,O=c1ccc(-c2ccnc(Nc3ccccc3)n2)co1,22.641382,-0.34544253
+PT-MOGA,CNC1CCC(Nc2nccc(-c3ccc(F)cc3)n2)CC1,-2.2899609,26.068655
+PT-MOGA,Brc1ccc(-c2ccnc(NC3CC3)n2)cc1,-5.194118,36.625645
+PT-MOGA,Brc1ccc(-c2ccnc(NC3CCNCC3)n2)cc1,-6.1705384,29.152859
+PT-MOGA,CC(=O)N1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-29.945478,27.540178
+PT-MOGA,NC1CCC(Nc2nccc(-c3ccccc3)n2)CC1,-7.2251606,32.615963
+PT-MOGA,Brc1cncc(-c2ccnc(NC3CCOCC3)n2)c1,-1.6438874,40.17534
+PT-MOGA,CNC(=O)N1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-30.956934,27.00459
+PT-MOGA,FC1CC1n1cc(-c2ccnc(Nc3ccc(Br)cc3)n2)cn1,27.763832,9.0918665
+PT-MOGA,O=C1CCC(Nc2nccc(-c3ccc(Cl)cc3)n2)CC1,-7.4111595,35.78662
+PT-MOGA,NCCN1CCC(Nc2nccc(-c3ccc(Br)cc3)n2)CC1,-10.61662,31.420158
+PT-MOGA,OCc1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,18.236727,-1.9541827
+PT-MOGA,Fc1nc(-c2ccnc(NC3CC3)n2)cnc1C1CC1,-8.800306,39.903233
+PT-MOGA,c1ccn2c(-c3ccnc(NC4CCCCNCC4)n3)cnc2c1,-29.961662,31.236168
+PT-MOGA,FC1CC1n1ncc(-c2ccnc(NC3CCOCC3)n2)c1Br,-7.5655556,47.558723
+PT-MOGA,Cc1cn(-c2ccc(-c3ccnc(Nc4ccccc4)n3)cc2)nn1,31.473192,-11.76148
+PT-MOGA,Brc1ccc(-c2ccnc(NC3CC3)n2)nc1,-6.367473,39.76619
+PT-MOGA,CCN1CCC(Nc2nccc(-c3cnc4ccccn34)n2)C1,-34.7183,27.722658
+PT-MOGA,C=Cn1ncc(Br)c1-c1ccnc(NC2CC2)n1,-6.187963,50.196598
+PT-MOGA,[Mg+]c1ccc(-c2ccnc(Nc3ccccc3)n2)cc1,21.34117,-2.9646122
+PT-MOGA,Clc1ccc(-c2ccnc(NC3CC3)n2)cc1Br,-6.0406537,37.475895
+PT-MOGA,Clc1c(-c2ccnc(NC3CC3)n2)cnn1C1C=CC=C1,-11.254328,48.580887
+PT-MOGA,FC1CC1n1ncc(-c2ccnc(NC3CC3)n2)c1Br,-7.5337386,47.978096
+PT-MOGA,Brc1ccc(-c2ccnc(NC3CCOCC3)n2)cn1,-2.1462567,39.04211
+PT-MOGA,c1ccc(-c2c[nH]nc2-c2ccnc(NC3CCCCC3)n2)cc1,-12.871069,34.177658
+PT-MOGA,Brc1cnncc1-c1ccnc(NC2CC2)n1,-6.5556436,42.139545
+PT-MOGA,Brc1c(-c2ccnc(NC3CC3)n2)cnn1C1C=CC=C1,-11.80368,49.599213
+PT-MOGA,Cc1cc(-c2ccnc(Nc3ccccc3)n2)ccn1,25.926304,-1.7719989
+PT-MOGA,O=C1N=C(c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)C=C1F,-13.018926,6.1883063
+PT-MOGA,CCN1CC=C(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-36.266712,28.88285
+PT-MOGA,Cn1ncc(-c2ccnc(NC3CC3)n2)c1-c1ccnc(Cl)c1,-13.657109,42.472855
+PT-MOGA,Brc1c(-c2ccnc(NC3CC3)n2)[nH]c2ccccc12,-4.8044224,41.15054
+PT-MOGA,CN=C1CCC(Nc2nccc(-c3cccnc3)n2)CC1,-9.946933,21.521105
+PT-MOGA,Fc1cc(F)cc(-c2ccnc(NC3CCNCC3)n2)c1,-5.5686145,26.822948
+PT-MOGA,NC1CCC(Nc2nccc(-c3cccc(F)c3)n2)CC1,-6.8319755,31.336039
+PT-MOGA,Brc1ccc(Nc2nccc(-c3cnn(C4CC4)c3)n2)cc1,27.757696,9.088144
+PT-MOGA,N=C1C=CC(c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)=C1,-11.392621,8.187505
+PT-MOGA,O=C1C=CC(c2c(-c3ccnc(NC4CC4)n3)cnn2C2CC2)=C1,-12.671146,45.593624
+PT-MOGA,CN1CCN(c2ccc(Nc3nccc(-c4cn[nH]c4)n3)cc2)CC1,6.8442554,-20.406317
+PT-MOGA,CCN1CCC(Nc2nccc(-c3ccc(C)nc3)n2)CC1,-11.264387,26.881489
+PT-MOGA,Cc1ncc(-c2ccnc(NC3CCCC3)n2)cn1,3.0385468,32.10131
+PT-MOGA,Fc1ccc(Nc2nccc(-c3ccncn3)n2)cc1,31.199558,-6.099456
+PT-MOGA,Cc1ncn(-c2ccc(Nc3nccc(-c4ccccc4)n3)cc2)n1,35.739285,-20.202457
+PT-MOGA,Cn1cnc(-c2ccc(-c3ccnc(Nc4ccccc4)n3)cc2)n1,17.470526,5.068735
+PT-MOGA,SC1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CC1,-32.29751,30.285435
+PT-MOGA,O=C(Nc1ccc(-c2ccnc(NC3CC3)n2)cc1)C1CC1,-5.355894,19.99231
+PT-MOGA,CC1CCC(Nc2nccc(-c3cnc4ccccn34)n2)CCO1,-32.24506,32.577915
+PT-MOGA,COc1ccc(Nc2nccc(-c3ccco3)n2)cc1,27.858921,-9.839517
+PT-MOGA,OC1CCC(Nc2nccc(-c3ccc(Cl)cc3)n2)CC1,-8.08635,35.073494
+PT-MOGA,CCC(C)n1ncc(-c2ccnc(NC3CC3)n2)c1F,-16.638151,48.835026
+PT-MOGA,O=CN1CCN(c2cc(=O)c3cccc(-c4ccccc4)c3o2)CC1,-25.962566,-3.3112767
