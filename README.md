@@ -47,12 +47,9 @@ Keep the actual sampled SMILES and corresponding per-molecule results. Some olde
 
 ## Attribution and license
 
-This implementation builds on [ChemistGA](https://github.com/jkwang93/ChemistGA), with extensions for Pareto selection, additional objective configurations, and experimental evaluation. Reaction-aware crossover originates from the ChemistGA/Molecular Transformer approach and is not claimed as an original component of this project.
+Please cite the PT-MOGA manuscript when using this project. Related software resources:
 
-Please cite the PT-MOGA manuscript when using these extensions and acknowledge the underlying work:
-
-- Wang et al. *ChemistGA: A Chemical Synthesizable Accessible Molecular Generation Algorithm for Real-World Drug Discovery*. J. Med. Chem. 2022, 65, 12482-12496. DOI: [10.1021/acs.jmedchem.2c01179](https://doi.org/10.1021/acs.jmedchem.2c01179).
 - [Molecular Transformer](https://github.com/pschwllr/MolecularTransformer).
 - [Retro*](https://github.com/binghong-ml/retro_star).
 
-The project extensions and inherited ChemistGA code are provided under the MIT License; see `LICENSE.md`. Original copyright notices are retained. Third-party software, datasets, and pretrained models remain subject to their respective licenses.
+See `LICENSE.md` for the project license. Third-party software, datasets, and pretrained models remain subject to their respective licenses.
